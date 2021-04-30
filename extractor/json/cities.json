@@ -27,7 +27,8 @@
     "Adenau"
   ],
   "Adorf/Vogtl.": [
-    "Adorf/Vogtl."
+    "Adorf/Vogtl.",
+    "Adorf Vogtl."
   ],
   "Ahaus": [
     "Ahaus"
@@ -72,7 +73,8 @@
     "Alsleben"
   ],
   "Altdorf bei N\u00fcrnberg": [
-    "Altdorf bei N\u00fcrnberg"
+    "Altdorf bei N\u00fcrnberg",
+    "Altdorf bei Nuernberg"
   ],
   "Altena": [
     "Altena"
@@ -96,7 +98,8 @@
     "Altlandsberg"
   ],
   "Alt\u00f6tting": [
-    "Alt\u00f6tting"
+    "Alt\u00f6tting",
+    "Altoetting"
   ],
   "Alzenau": [
     "Alzenau"
@@ -108,7 +111,8 @@
     "Amberg"
   ],
   "Am\u00f6neburg": [
-    "Am\u00f6neburg"
+    "Am\u00f6neburg",
+    "Amoeneburg"
   ],
   "Amorbach": [
     "Amorbach"
@@ -117,13 +121,15 @@
     "Andernach"
   ],
   "Angerm\u00fcnde": [
-    "Angerm\u00fcnde"
+    "Angerm\u00fcnde",
+    "Angermuende"
   ],
   "Anklam, Hansestadt": [
     "Anklam, Hansestadt"
   ],
   "Annaberg-Buchholz": [
-    "Annaberg-Buchholz"
+    "Annaberg-Buchholz",
+    "Annaberg Buchholz"
   ],
   "Annaburg": [
     "Annaburg"
@@ -156,7 +162,8 @@
     "Arnstein"
   ],
   "Artern/Unstrut": [
-    "Artern/Unstrut"
+    "Artern/Unstrut",
+    "Artern Unstrut"
   ],
   "Arzberg": [
     "Arzberg"
@@ -171,7 +178,8 @@
     "Asperg"
   ],
   "A\u00dflar": [
-    "A\u00dflar"
+    "A\u00dflar",
+    "Asslar"
   ],
   "Attendorn": [
     "Attendorn"
@@ -186,7 +194,8 @@
     "Auerbach in der Oberpfalz"
   ],
   "Auerbach/Vogtl.": [
-    "Auerbach/Vogtl."
+    "Auerbach/Vogtl.",
+    "Auerbach Vogtl."
   ],
   "Augsburg": [
     "Augsburg"
@@ -198,7 +207,8 @@
     "Aulendorf"
   ],
   "Auma-Weidatal": [
-    "Auma-Weidatal"
+    "Auma-Weidatal",
+    "Auma Weidatal"
   ],
   "Aurich": [
     "Aurich"
@@ -252,7 +262,8 @@
     "Bad Breisig"
   ],
   "Bad Br\u00fcckenau": [
-    "Bad Br\u00fcckenau"
+    "Bad Br\u00fcckenau",
+    "Bad Brueckenau"
   ],
   "Bad Buchau": [
     "Bad Buchau"
@@ -261,7 +272,8 @@
     "Bad Camberg"
   ],
   "Bad Colberg-Heldburg": [
-    "Bad Colberg-Heldburg"
+    "Bad Colberg-Heldburg",
+    "Bad Colberg Heldburg"
   ],
   "Bad Doberan": [
     "Bad Doberan"
@@ -270,16 +282,20 @@
     "Bad Driburg"
   ],
   "Bad D\u00fcben": [
-    "Bad D\u00fcben"
+    "Bad D\u00fcben",
+    "Bad Dueben"
   ],
   "Bad D\u00fcrkheim": [
-    "Bad D\u00fcrkheim"
+    "Bad D\u00fcrkheim",
+    "Bad Duerkheim"
   ],
   "Bad D\u00fcrrenberg": [
-    "Bad D\u00fcrrenberg"
+    "Bad D\u00fcrrenberg",
+    "Bad Duerrenberg"
   ],
   "Bad D\u00fcrrheim": [
-    "Bad D\u00fcrrheim"
+    "Bad D\u00fcrrheim",
+    "Bad Duerrheim"
   ],
   "Bad Elster": [
     "Bad Elster"
@@ -288,13 +304,17 @@
     "Bad Ems"
   ],
   "Baden-Baden": [
-    "Baden-Baden"
+    "Baden-Baden",
+    "Baden Baden"
   ],
   "Bad Fallingbostel": [
     "Bad Fallingbostel"
   ],
   "Bad Frankenhausen/Kyffh\u00e4user": [
-    "Bad Frankenhausen/Kyffh\u00e4user"
+    "Bad Frankenhausen/Kyffh\u00e4user",
+    "Bad Frankenhausen/Kyffhaeuser",
+    "Bad Frankenhausen Kyffh\u00e4user",
+    "Bad Frankenhausen Kyffhaeuser"
   ],
   "Bad Freienwalde": [
     "Bad Freienwalde"
@@ -306,7 +326,10 @@
     "Bad Gandersheim"
   ],
   "Bad Gottleuba-Berggie\u00dfh\u00fcbel": [
-    "Bad Gottleuba-Berggie\u00dfh\u00fcbel"
+    "Bad Gottleuba-Berggie\u00dfh\u00fcbel",
+    "Bad Gottleuba-Berggiesshuebel",
+    "Bad Gottleuba Berggie\u00dfh\u00fcbel",
+    "Bad Gottleuba Berggiesshuebel"
   ],
   "Bad Griesbach im Rottal": [
     "Bad Griesbach im Rottal"
@@ -321,13 +344,15 @@
     "Bad Hersfeld"
   ],
   "Bad Homburg vor der H\u00f6he": [
-    "Bad Homburg vor der H\u00f6he"
+    "Bad Homburg vor der H\u00f6he",
+    "Bad Homburg vor der Hoehe"
   ],
   "Bad Honnef": [
     "Bad Honnef"
   ],
   "Bad H\u00f6nningen": [
-    "Bad H\u00f6nningen"
+    "Bad H\u00f6nningen",
+    "Bad Hoenningen"
   ],
   "Bad Iburg": [
     "Bad Iburg"
@@ -339,16 +364,20 @@
     "Bad Kissingen"
   ],
   "Bad K\u00f6nig": [
-    "Bad K\u00f6nig"
+    "Bad K\u00f6nig",
+    "Bad Koenig"
   ],
   "Bad K\u00f6nigshofen im Grabfeld": [
-    "Bad K\u00f6nigshofen im Grabfeld"
+    "Bad K\u00f6nigshofen im Grabfeld",
+    "Bad Koenigshofen im Grabfeld"
   ],
   "Bad K\u00f6stritz": [
-    "Bad K\u00f6stritz"
+    "Bad K\u00f6stritz",
+    "Bad Koestritz"
   ],
   "Bad K\u00f6tzting": [
-    "Bad K\u00f6tzting"
+    "Bad K\u00f6tzting",
+    "Bad Koetzting"
   ],
   "Bad Kreuznach": [
     "Bad Kreuznach"
@@ -363,7 +392,8 @@
     "Bad Langensalza"
   ],
   "Bad Lauchst\u00e4dt": [
-    "Bad Lauchst\u00e4dt"
+    "Bad Lauchst\u00e4dt",
+    "Bad Lauchstaedt"
   ],
   "Bad Lausick": [
     "Bad Lausick"
@@ -393,10 +423,12 @@
     "Bad Mergentheim"
   ],
   "Bad M\u00fcnder am Deister": [
-    "Bad M\u00fcnder am Deister"
+    "Bad M\u00fcnder am Deister",
+    "Bad Muender am Deister"
   ],
   "Bad M\u00fcnstereifel": [
-    "Bad M\u00fcnstereifel"
+    "Bad M\u00fcnstereifel",
+    "Bad Muenstereifel"
   ],
   "Bad Muskau": [
     "Bad Muskau"
@@ -408,7 +440,8 @@
     "Bad Nenndorf"
   ],
   "Bad Neuenahr-Ahrweiler": [
-    "Bad Neuenahr-Ahrweiler"
+    "Bad Neuenahr-Ahrweiler",
+    "Bad Neuenahr Ahrweiler"
   ],
   "Bad Neustadt an der Saale": [
     "Bad Neustadt an der Saale"
@@ -438,7 +471,8 @@
     "Bad Sachsa"
   ],
   "Bad S\u00e4ckingen": [
-    "Bad S\u00e4ckingen"
+    "Bad S\u00e4ckingen",
+    "Bad Saeckingen"
   ],
   "Bad Salzdetfurth": [
     "Bad Salzdetfurth"
@@ -477,10 +511,14 @@
     "Bad Soden am Taunus"
   ],
   "Bad Soden-Salm\u00fcnster": [
-    "Bad Soden-Salm\u00fcnster"
+    "Bad Soden-Salm\u00fcnster",
+    "Bad Soden-Salmuenster",
+    "Bad Soden Salm\u00fcnster",
+    "Bad Soden Salmuenster"
   ],
   "Bad Sooden-Allendorf": [
-    "Bad Sooden-Allendorf"
+    "Bad Sooden-Allendorf",
+    "Bad Sooden Allendorf"
   ],
   "Bad Staffelstein": [
     "Bad Staffelstein"
@@ -489,16 +527,19 @@
     "Bad Sulza"
   ],
   "Bad S\u00fclze": [
-    "Bad S\u00fclze"
+    "Bad S\u00fclze",
+    "Bad Suelze"
   ],
   "Bad Teinach-Zavelstein": [
-    "Bad Teinach-Zavelstein"
+    "Bad Teinach-Zavelstein",
+    "Bad Teinach Zavelstein"
   ],
   "Bad Tennstedt": [
     "Bad Tennstedt"
   ],
   "Bad T\u00f6lz": [
-    "Bad T\u00f6lz"
+    "Bad T\u00f6lz",
+    "Bad Toelz"
   ],
   "Bad Urach": [
     "Bad Urach"
@@ -525,10 +566,12 @@
     "Bad Windsheim"
   ],
   "Bad W\u00f6rishofen": [
-    "Bad W\u00f6rishofen"
+    "Bad W\u00f6rishofen",
+    "Bad Woerishofen"
   ],
   "Bad W\u00fcnnenberg": [
-    "Bad W\u00fcnnenberg"
+    "Bad W\u00fcnnenberg",
+    "Bad Wuennenberg"
   ],
   "Bad Wurzach": [
     "Bad Wurzach"
@@ -561,7 +604,8 @@
     "Barmstedt"
   ],
   "B\u00e4rnau": [
-    "B\u00e4rnau"
+    "B\u00e4rnau",
+    "Baernau"
   ],
   "Barntrup": [
     "Barntrup"
@@ -573,7 +617,8 @@
     "Barth"
   ],
   "Baruth/Mark": [
-    "Baruth/Mark"
+    "Baruth/Mark",
+    "Baruth Mark"
   ],
   "Bassum": [
     "Bassum"
@@ -621,7 +666,8 @@
     "Beilstein"
   ],
   "Belgern-Schildau": [
-    "Belgern-Schildau"
+    "Belgern-Schildau",
+    "Belgern Schildau"
   ],
   "Bendorf": [
     "Bendorf"
@@ -633,13 +679,15 @@
     "Berching"
   ],
   "Berga/Elster": [
-    "Berga/Elster"
+    "Berga/Elster",
+    "Berga Elster"
   ],
   "Bergen": [
     "Bergen"
   ],
   "Bergen auf R\u00fcgen": [
-    "Bergen auf R\u00fcgen"
+    "Bergen auf R\u00fcgen",
+    "Bergen auf Ruegen"
   ],
   "Bergheim": [
     "Bergheim"
@@ -654,7 +702,8 @@
     "Bergneustadt"
   ],
   "Berka/Werra": [
-    "Berka/Werra"
+    "Berka/Werra",
+    "Berka Werra"
   ],
   "Berlin": [
     "Berlin"
@@ -666,7 +715,8 @@
     "Bernburg"
   ],
   "Bernkastel-Kues": [
-    "Bernkastel-Kues"
+    "Bernkastel-Kues",
+    "Bernkastel Kues"
   ],
   "Bernsdorf": [
     "Bernsdorf"
@@ -675,7 +725,8 @@
     "Bernstadt a. d. Eigen"
   ],
   "Bersenbr\u00fcck": [
-    "Bersenbr\u00fcck"
+    "Bersenbr\u00fcck",
+    "Bersenbrueck"
   ],
   "Besigheim": [
     "Besigheim"
@@ -693,7 +744,8 @@
     "Bexbach"
   ],
   "Biberach an der Ri\u00df": [
-    "Biberach an der Ri\u00df"
+    "Biberach an der Ri\u00df",
+    "Biberach an der Riss"
   ],
   "Biedenkopf": [
     "Biedenkopf"
@@ -705,7 +757,8 @@
     "Biesenthal"
   ],
   "Bietigheim-Bissingen": [
-    "Bietigheim-Bissingen"
+    "Bietigheim-Bissingen",
+    "Bietigheim Bissingen"
   ],
   "Billerbeck": [
     "Billerbeck"
@@ -717,7 +770,8 @@
     "Birkenfeld"
   ],
   "Bischofsheim an der Rh\u00f6n": [
-    "Bischofsheim an der Rh\u00f6n"
+    "Bischofsheim an der Rh\u00f6n",
+    "Bischofsheim an der Rhoen"
   ],
   "Bischofswerda": [
     "Bischofswerda"
@@ -729,7 +783,8 @@
     "Bitburg"
   ],
   "Bitterfeld-Wolfen": [
-    "Bitterfeld-Wolfen"
+    "Bitterfeld-Wolfen",
+    "Bitterfeld Wolfen"
   ],
   "Blankenburg": [
     "Blankenburg"
@@ -762,7 +817,8 @@
     "Bobingen"
   ],
   "B\u00f6blingen": [
-    "B\u00f6blingen"
+    "B\u00f6blingen",
+    "Boeblingen"
   ],
   "Bocholt": [
     "Bocholt"
@@ -780,10 +836,12 @@
     "Bogen"
   ],
   "B\u00f6hlen": [
-    "B\u00f6hlen"
+    "B\u00f6hlen",
+    "Boehlen"
   ],
   "Boizenburg/Elbe": [
-    "Boizenburg/Elbe"
+    "Boizenburg/Elbe",
+    "Boizenburg Elbe"
   ],
   "Bonn": [
     "Bonn"
@@ -792,7 +850,8 @@
     "Bonndorf im Schwarzwald"
   ],
   "B\u00f6nnigheim": [
-    "B\u00f6nnigheim"
+    "B\u00f6nnigheim",
+    "Boennigheim"
   ],
   "Bopfingen": [
     "Bopfingen"
@@ -840,7 +899,8 @@
     "Brandenburg an der Havel"
   ],
   "Brand-Erbisdorf": [
-    "Brand-Erbisdorf"
+    "Brand-Erbisdorf",
+    "Brand Erbisdorf"
   ],
   "Brandis": [
     "Brandis"
@@ -855,7 +915,8 @@
     "Braunlage"
   ],
   "Br\u00e4unlingen": [
-    "Br\u00e4unlingen"
+    "Br\u00e4unlingen",
+    "Braeunlingen"
   ],
   "Braunsbedra": [
     "Braunsbedra"
@@ -879,7 +940,8 @@
     "Bremerhaven"
   ],
   "Bremerv\u00f6rde": [
-    "Bremerv\u00f6rde"
+    "Bremerv\u00f6rde",
+    "Bremervoerde"
   ],
   "Bretten": [
     "Bretten"
@@ -891,28 +953,35 @@
     "Brilon"
   ],
   "Brotterode-Trusetal": [
-    "Brotterode-Trusetal"
+    "Brotterode-Trusetal",
+    "Brotterode Trusetal"
   ],
   "Bruchk\u00f6bel": [
-    "Bruchk\u00f6bel"
+    "Bruchk\u00f6bel",
+    "Bruchkoebel"
   ],
   "Bruchsal": [
     "Bruchsal"
   ],
   "Br\u00fcck": [
-    "Br\u00fcck"
+    "Br\u00fcck",
+    "Brueck"
   ],
   "Br\u00fcel": [
-    "Br\u00fcel"
+    "Br\u00fcel",
+    "Brueel"
   ],
   "Br\u00fchl": [
-    "Br\u00fchl"
+    "Br\u00fchl",
+    "Bruehl"
   ],
   "Brunsb\u00fcttel": [
-    "Brunsb\u00fcttel"
+    "Brunsb\u00fcttel",
+    "Brunsbuettel"
   ],
   "Br\u00fcssow": [
-    "Br\u00fcssow"
+    "Br\u00fcssow",
+    "Bruessow"
   ],
   "Buchen": [
     "Buchen"
@@ -924,25 +993,31 @@
     "Buchloe"
   ],
   "B\u00fcckeburg": [
-    "B\u00fcckeburg"
+    "B\u00fcckeburg",
+    "Bueckeburg"
   ],
   "Buckow": [
     "Buckow"
   ],
   "B\u00fcdelsdorf": [
-    "B\u00fcdelsdorf"
+    "B\u00fcdelsdorf",
+    "Buedelsdorf"
   ],
   "B\u00fcdingen": [
-    "B\u00fcdingen"
+    "B\u00fcdingen",
+    "Buedingen"
   ],
   "B\u00fchl": [
-    "B\u00fchl"
+    "B\u00fchl",
+    "Buehl"
   ],
   "B\u00fcnde": [
-    "B\u00fcnde"
+    "B\u00fcnde",
+    "Buende"
   ],
   "B\u00fcren": [
-    "B\u00fcren"
+    "B\u00fcren",
+    "Bueren"
   ],
   "Burg": [
     "Burg"
@@ -957,7 +1032,8 @@
     "Burgdorf"
   ],
   "B\u00fcrgel": [
-    "B\u00fcrgel"
+    "B\u00fcrgel",
+    "Buergel"
   ],
   "Burghausen": [
     "Burghausen"
@@ -969,7 +1045,8 @@
     "Burglengenfeld"
   ],
   "Burgst\u00e4dt": [
-    "Burgst\u00e4dt"
+    "Burgst\u00e4dt",
+    "Burgstaedt"
   ],
   "Burg Stargard": [
     "Burg Stargard"
@@ -984,19 +1061,22 @@
     "Burscheid"
   ],
   "B\u00fcrstadt": [
-    "B\u00fcrstadt"
+    "B\u00fcrstadt",
+    "Buerstadt"
   ],
   "Buttelstedt": [
     "Buttelstedt"
   ],
   "Buttst\u00e4dt": [
-    "Buttst\u00e4dt"
+    "Buttst\u00e4dt",
+    "Buttstaedt"
   ],
   "Butzbach": [
     "Butzbach"
   ],
   "B\u00fctzow": [
-    "B\u00fctzow"
+    "B\u00fctzow",
+    "Buetzow"
   ],
   "Buxtehude": [
     "Buxtehude"
@@ -1011,7 +1091,8 @@
     "Calw"
   ],
   "Castrop-Rauxel": [
-    "Castrop-Rauxel"
+    "Castrop-Rauxel",
+    "Castrop Rauxel"
   ],
   "Celle": [
     "Celle"
@@ -1023,7 +1104,8 @@
     "Chemnitz"
   ],
   "Clausthal-Zellerfeld": [
-    "Clausthal-Zellerfeld"
+    "Clausthal-Zellerfeld",
+    "Clausthal Zellerfeld"
   ],
   "Clingen": [
     "Clingen"
@@ -1056,7 +1138,8 @@
     "Creglingen"
   ],
   "Creu\u00dfen": [
-    "Creu\u00dfen"
+    "Creu\u00dfen",
+    "Creussen"
   ],
   "Creuzburg": [
     "Creuzburg"
@@ -1077,7 +1160,8 @@
     "Dahlen"
   ],
   "Dahme/Mark": [
-    "Dahme/Mark"
+    "Dahme/Mark",
+    "Dahme Mark"
   ],
   "Dahn": [
     "Dahn"
@@ -1113,7 +1197,8 @@
     "Deidesheim"
   ],
   "Delbr\u00fcck": [
-    "Delbr\u00fcck"
+    "Delbr\u00fcck",
+    "Delbrueck"
   ],
   "Delitzsch": [
     "Delitzsch"
@@ -1125,7 +1210,10 @@
     "Demmin, Hansestadt"
   ],
   "Dessau-Ro\u00dflau": [
-    "Dessau-Ro\u00dflau"
+    "Dessau-Ro\u00dflau",
+    "Dessau-Rosslau",
+    "Dessau Ro\u00dflau",
+    "Dessau Rosslau"
   ],
   "Detmold": [
     "Detmold"
@@ -1149,7 +1237,8 @@
     "Dietenheim"
   ],
   "Dietfurt an der Altm\u00fchl": [
-    "Dietfurt an der Altm\u00fchl"
+    "Dietfurt an der Altm\u00fchl",
+    "Dietfurt an der Altmuehl"
   ],
   "Dietzenbach": [
     "Dietzenbach"
@@ -1164,16 +1253,19 @@
     "Dillingen an der Donau"
   ],
   "Dillingen/Saar": [
-    "Dillingen/Saar"
+    "Dillingen/Saar",
+    "Dillingen Saar"
   ],
   "Dingelst\u00e4dt": [
-    "Dingelst\u00e4dt"
+    "Dingelst\u00e4dt",
+    "Dingelstaedt"
   ],
   "Dingolfing": [
     "Dingolfing"
   ],
   "Dinkelsb\u00fchl": [
-    "Dinkelsb\u00fchl"
+    "Dinkelsb\u00fchl",
+    "Dinkelsbuehl"
   ],
   "Dinklage": [
     "Dinklage"
@@ -1191,19 +1283,23 @@
     "Ditzingen"
   ],
   "D\u00f6beln": [
-    "D\u00f6beln"
+    "D\u00f6beln",
+    "Doebeln"
   ],
   "Doberlug-Kirchhain": [
-    "Doberlug-Kirchhain"
+    "Doberlug-Kirchhain",
+    "Doberlug Kirchhain"
   ],
   "D\u00f6bern": [
-    "D\u00f6bern"
+    "D\u00f6bern",
+    "Doebern"
   ],
   "Dohna": [
     "Dohna"
   ],
   "D\u00f6mitz": [
-    "D\u00f6mitz"
+    "D\u00f6mitz",
+    "Doemitz"
   ],
   "Dommitzsch": [
     "Dommitzsch"
@@ -1212,7 +1308,8 @@
     "Donaueschingen"
   ],
   "Donauw\u00f6rth": [
-    "Donauw\u00f6rth"
+    "Donauw\u00f6rth",
+    "Donauwoerth"
   ],
   "Donzdorf": [
     "Donzdorf"
@@ -1224,7 +1321,8 @@
     "Dormagen"
   ],
   "Dornburg-Camburg": [
-    "Dornburg-Camburg"
+    "Dornburg-Camburg",
+    "Dornburg Camburg"
   ],
   "Dornhan": [
     "Dornhan"
@@ -1263,13 +1361,16 @@
     "Duisburg"
   ],
   "D\u00fclmen": [
-    "D\u00fclmen"
+    "D\u00fclmen",
+    "Duelmen"
   ],
   "D\u00fcren": [
-    "D\u00fcren"
+    "D\u00fcren",
+    "Dueren"
   ],
   "D\u00fcsseldorf": [
-    "D\u00fcsseldorf"
+    "D\u00fcsseldorf",
+    "Duesseldorf"
   ],
   "Ebeleben": [
     "Ebeleben"
@@ -1287,7 +1388,8 @@
     "Ebersbach an der Fils"
   ],
   "Ebersbach-Neugersdorf": [
-    "Ebersbach-Neugersdorf"
+    "Ebersbach-Neugersdorf",
+    "Ebersbach Neugersdorf"
   ],
   "Ebersberg": [
     "Ebersberg"
@@ -1299,7 +1401,8 @@
     "Eckartsberga"
   ],
   "Eckernf\u00f6rde": [
-    "Eckernf\u00f6rde"
+    "Eckernf\u00f6rde",
+    "Eckernfoerde"
   ],
   "Edenkoben": [
     "Edenkoben"
@@ -1326,7 +1429,8 @@
     "Eibenstock"
   ],
   "Eichst\u00e4tt": [
-    "Eichst\u00e4tt"
+    "Eichst\u00e4tt",
+    "Eichstaett"
   ],
   "Eilenburg": [
     "Eilenburg"
@@ -1341,7 +1445,8 @@
     "Eisenberg"
   ],
   "Eisenh\u00fcttenstadt": [
-    "Eisenh\u00fcttenstadt"
+    "Eisenh\u00fcttenstadt",
+    "Eisenhuettenstadt"
   ],
   "Eisfeld": [
     "Eisfeld"
@@ -1350,7 +1455,8 @@
     "Eisleben, Lutherstadt"
   ],
   "Eislingen/Fils": [
-    "Eislingen/Fils"
+    "Eislingen/Fils",
+    "Eislingen Fils"
   ],
   "Ellingen": [
     "Ellingen"
@@ -1494,7 +1600,8 @@
     "Essen"
   ],
   "Esslingen am Neckar": [
-    "Esslingen am Neckar"
+    "Esslingen am Neckar",
+    "Esslingen"
   ],
   "Ettenheim": [
     "Ettenheim"
@@ -1509,16 +1616,19 @@
     "Eutin"
   ],
   "Falkenberg/Elster": [
-    "Falkenberg/Elster"
+    "Falkenberg/Elster",
+    "Falkenberg Elster"
   ],
   "Falkensee": [
     "Falkensee"
   ],
   "Falkenstein/Harz": [
-    "Falkenstein/Harz"
+    "Falkenstein/Harz",
+    "Falkenstein Harz"
   ],
   "Falkenstein/Vogtl.": [
-    "Falkenstein/Vogtl."
+    "Falkenstein/Vogtl.",
+    "Falkenstein Vogtl."
   ],
   "Fehmarn": [
     "Fehmarn"
@@ -1545,10 +1655,12 @@
     "Flensburg"
   ],
   "Fl\u00f6ha": [
-    "Fl\u00f6ha"
+    "Fl\u00f6ha",
+    "Floeha"
   ],
   "Fl\u00f6rsheim am Main": [
-    "Fl\u00f6rsheim am Main"
+    "Fl\u00f6rsheim am Main",
+    "Floersheim am Main"
   ],
   "Florstadt": [
     "Florstadt"
@@ -1569,7 +1681,8 @@
     "Frankenberg"
   ],
   "Frankenberg/Sa.": [
-    "Frankenberg/Sa."
+    "Frankenberg/Sa.",
+    "Frankenberg Sa."
   ],
   "Frankenthal": [
     "Frankenthal"
@@ -1665,25 +1778,37 @@
     "Frohburg"
   ],
   "Fr\u00f6ndenberg/Ruhr": [
-    "Fr\u00f6ndenberg/Ruhr"
+    "Fr\u00f6ndenberg/Ruhr",
+    "Froendenberg/Ruhr",
+    "Fr\u00f6ndenberg Ruhr",
+    "Froendenberg Ruhr"
   ],
   "Fulda": [
     "Fulda"
   ],
   "F\u00fcrstenau": [
-    "F\u00fcrstenau"
+    "F\u00fcrstenau",
+    "Fuerstenau"
   ],
   "F\u00fcrstenberg/Havel": [
-    "F\u00fcrstenberg/Havel"
+    "F\u00fcrstenberg/Havel",
+    "Fuerstenberg/Havel",
+    "F\u00fcrstenberg Havel",
+    "Fuerstenberg Havel"
   ],
   "F\u00fcrstenfeldbruck": [
-    "F\u00fcrstenfeldbruck"
+    "F\u00fcrstenfeldbruck",
+    "Fuerstenfeldbruck"
   ],
   "F\u00fcrstenwalde/Spree": [
-    "F\u00fcrstenwalde/Spree"
+    "F\u00fcrstenwalde/Spree",
+    "Fuerstenwalde/Spree",
+    "F\u00fcrstenwalde Spree",
+    "Fuerstenwalde Spree"
   ],
   "F\u00fcrth": [
-    "F\u00fcrth"
+    "F\u00fcrth",
+    "Fuerth"
   ],
   "Furth im Wald": [
     "Furth im Wald"
@@ -1692,7 +1817,8 @@
     "Furtwangen im Schwarzwald"
   ],
   "F\u00fcssen": [
-    "F\u00fcssen"
+    "F\u00fcssen",
+    "Fuessen"
   ],
   "Gadebusch": [
     "Gadebusch"
@@ -1710,7 +1836,8 @@
     "Garbsen"
   ],
   "Garching bei M\u00fcnchen": [
-    "Garching bei M\u00fcnchen"
+    "Garching bei M\u00fcnchen",
+    "Garching bei Muenchen"
   ],
   "Gardelegen": [
     "Gardelegen"
@@ -1722,10 +1849,14 @@
     "Gartz"
   ],
   "Garz/R\u00fcgen": [
-    "Garz/R\u00fcgen"
+    "Garz/R\u00fcgen",
+    "Garz/Ruegen",
+    "Garz R\u00fcgen",
+    "Garz Ruegen"
   ],
   "Gau-Algesheim": [
-    "Gau-Algesheim"
+    "Gau-Algesheim",
+    "Gau Algesheim"
   ],
   "Gebesee": [
     "Gebesee"
@@ -1758,7 +1889,8 @@
     "Geisa"
   ],
   "Geiselh\u00f6ring": [
-    "Geiselh\u00f6ring"
+    "Geiselh\u00f6ring",
+    "Geiselhoering"
   ],
   "Geisenfeld": [
     "Geisenfeld"
@@ -1788,10 +1920,12 @@
     "Gelsenkirchen"
   ],
   "Gem\u00fcnden am Main": [
-    "Gem\u00fcnden am Main"
+    "Gem\u00fcnden am Main",
+    "Gemuenden am Main"
   ],
   "Gem\u00fcnden": [
-    "Gem\u00fcnden"
+    "Gem\u00fcnden",
+    "Gemuenden"
   ],
   "Gengenbach": [
     "Gengenbach"
@@ -1800,7 +1934,8 @@
     "Genthin"
   ],
   "Georgsmarienh\u00fctte": [
-    "Georgsmarienh\u00fctte"
+    "Georgsmarienh\u00fctte",
+    "Georgsmarienhuette"
   ],
   "Gera": [
     "Gera"
@@ -1860,13 +1995,15 @@
     "Giengen an der Brenz"
   ],
   "Gie\u00dfen": [
-    "Gie\u00dfen"
+    "Gie\u00dfen",
+    "Giessen"
   ],
   "Gifhorn": [
     "Gifhorn"
   ],
   "Ginsheim-Gustavsburg": [
-    "Ginsheim-Gustavsburg"
+    "Ginsheim-Gustavsburg",
+    "Ginsheim Gustavsburg"
   ],
   "Gladbeck": [
     "Gladbeck"
@@ -1875,7 +2012,8 @@
     "Gladenbach"
   ],
   "Glash\u00fctte": [
-    "Glash\u00fctte"
+    "Glash\u00fctte",
+    "Glashuette"
   ],
   "Glauchau": [
     "Glauchau"
@@ -1884,10 +2022,12 @@
     "Glinde"
   ],
   "Gl\u00fccksburg": [
-    "Gl\u00fccksburg"
+    "Gl\u00fccksburg",
+    "Gluecksburg"
   ],
   "Gl\u00fcckstadt": [
-    "Gl\u00fcckstadt"
+    "Gl\u00fcckstadt",
+    "Glueckstadt"
   ],
   "Gnoien": [
     "Gnoien"
@@ -1902,28 +2042,33 @@
     "Goldkronach"
   ],
   "Gol\u00dfen": [
-    "Gol\u00dfen"
+    "Gol\u00dfen",
+    "Golssen"
   ],
   "Gommern": [
     "Gommern"
   ],
   "G\u00f6ppingen": [
-    "G\u00f6ppingen"
+    "G\u00f6ppingen",
+    "Goeppingen"
   ],
   "G\u00f6rlitz": [
-    "G\u00f6rlitz"
+    "G\u00f6rlitz",
+    "Goerlitz"
   ],
   "Goslar": [
     "Goslar"
   ],
   "G\u00f6\u00dfnitz": [
-    "G\u00f6\u00dfnitz"
+    "G\u00f6\u00dfnitz",
+    "Goessnitz"
   ],
   "Gotha": [
     "Gotha"
   ],
   "G\u00f6ttingen": [
-    "G\u00f6ttingen"
+    "G\u00f6ttingen",
+    "Goettingen"
   ],
   "Grabow": [
     "Grabow"
@@ -1932,19 +2077,24 @@
     "Grafenau"
   ],
   "Gr\u00e4fenberg": [
-    "Gr\u00e4fenberg"
+    "Gr\u00e4fenberg",
+    "Graefenberg"
   ],
   "Gr\u00e4fenhainichen": [
-    "Gr\u00e4fenhainichen"
+    "Gr\u00e4fenhainichen",
+    "Graefenhainichen"
   ],
   "Gr\u00e4fenthal": [
-    "Gr\u00e4fenthal"
+    "Gr\u00e4fenthal",
+    "Graefenthal"
   ],
   "Grafenw\u00f6hr": [
-    "Grafenw\u00f6hr"
+    "Grafenw\u00f6hr",
+    "Grafenwoehr"
   ],
   "Grafing bei M\u00fcnchen": [
-    "Grafing bei M\u00fcnchen"
+    "Grafing bei M\u00fcnchen",
+    "Grafing bei Muenchen"
   ],
   "Gransee": [
     "Gransee"
@@ -1965,7 +2115,8 @@
     "Greiz"
   ],
   "Greu\u00dfen": [
-    "Greu\u00dfen"
+    "Greu\u00dfen",
+    "Greussen"
   ],
   "Greven": [
     "Greven"
@@ -1974,7 +2125,8 @@
     "Grevenbroich"
   ],
   "Grevesm\u00fchlen": [
-    "Grevesm\u00fchlen"
+    "Grevesm\u00fchlen",
+    "Grevesmuehlen"
   ],
   "Griesheim": [
     "Griesheim"
@@ -1986,7 +2138,8 @@
     "Grimmen"
   ],
   "Gr\u00f6ditz": [
-    "Gr\u00f6ditz"
+    "Gr\u00f6ditz",
+    "Groeditz"
   ],
   "Groitzsch": [
     "Groitzsch"
@@ -1995,52 +2148,76 @@
     "Gronau"
   ],
   "Gr\u00f6ningen": [
-    "Gr\u00f6ningen"
+    "Gr\u00f6ningen",
+    "Groeningen"
   ],
   "Gro\u00dfalmerode": [
-    "Gro\u00dfalmerode"
+    "Gro\u00dfalmerode",
+    "Grossalmerode"
   ],
   "Gro\u00df-Bieberau": [
-    "Gro\u00df-Bieberau"
+    "Gro\u00df-Bieberau",
+    "Gross-Bieberau",
+    "Gro\u00df Bieberau",
+    "Gross Bieberau"
   ],
   "Gro\u00dfbottwar": [
-    "Gro\u00dfbottwar"
+    "Gro\u00dfbottwar",
+    "Grossbottwar"
   ],
   "Gro\u00dfbreitenbach": [
-    "Gro\u00dfbreitenbach"
+    "Gro\u00dfbreitenbach",
+    "Grossbreitenbach"
   ],
   "Gro\u00dfenehrich": [
-    "Gro\u00dfenehrich"
+    "Gro\u00dfenehrich",
+    "Grossenehrich"
   ],
   "Gro\u00dfenhain": [
-    "Gro\u00dfenhain"
+    "Gro\u00dfenhain",
+    "Grossenhain"
   ],
   "Gro\u00df-Gerau": [
-    "Gro\u00df-Gerau"
+    "Gro\u00df-Gerau",
+    "Gross-Gerau",
+    "Gro\u00df Gerau",
+    "Gross Gerau"
   ],
   "Gro\u00dfr\u00e4schen": [
-    "Gro\u00dfr\u00e4schen"
+    "Gro\u00dfr\u00e4schen",
+    "Grossraeschen"
   ],
   "Gro\u00dfr\u00f6hrsdorf": [
-    "Gro\u00dfr\u00f6hrsdorf"
+    "Gro\u00dfr\u00f6hrsdorf",
+    "Grossroehrsdorf"
   ],
   "Gro\u00dfschirma": [
-    "Gro\u00dfschirma"
+    "Gro\u00dfschirma",
+    "Grossschirma"
   ],
   "Gro\u00df-Umstadt": [
-    "Gro\u00df-Umstadt"
+    "Gro\u00df-Umstadt",
+    "Gross-Umstadt",
+    "Gro\u00df Umstadt",
+    "Gross Umstadt"
   ],
   "Gr\u00fcnberg": [
-    "Gr\u00fcnberg"
+    "Gr\u00fcnberg",
+    "Gruenberg"
   ],
   "Gr\u00fcnhain-Beierfeld": [
-    "Gr\u00fcnhain-Beierfeld"
+    "Gr\u00fcnhain-Beierfeld",
+    "Gruenhain-Beierfeld",
+    "Gr\u00fcnhain Beierfeld",
+    "Gruenhain Beierfeld"
   ],
   "Gr\u00fcnsfeld": [
-    "Gr\u00fcnsfeld"
+    "Gr\u00fcnsfeld",
+    "Gruensfeld"
   ],
   "Gr\u00fcnstadt": [
-    "Gr\u00fcnstadt"
+    "Gr\u00fcnstadt",
+    "Gruenstadt"
   ],
   "Guben": [
     "Guben"
@@ -2049,7 +2226,8 @@
     "Gudensberg"
   ],
   "G\u00fcglingen": [
-    "G\u00fcglingen"
+    "G\u00fcglingen",
+    "Gueglingen"
   ],
   "Gummersbach": [
     "Gummersbach"
@@ -2061,22 +2239,27 @@
     "Gundelsheim"
   ],
   "G\u00fcnzburg": [
-    "G\u00fcnzburg"
+    "G\u00fcnzburg",
+    "Guenzburg"
   ],
   "Gunzenhausen": [
     "Gunzenhausen"
   ],
   "G\u00fcsten": [
-    "G\u00fcsten"
+    "G\u00fcsten",
+    "Guesten"
   ],
   "G\u00fcstrow": [
-    "G\u00fcstrow"
+    "G\u00fcstrow",
+    "Guestrow"
   ],
   "G\u00fctersloh": [
-    "G\u00fctersloh"
+    "G\u00fctersloh",
+    "Guetersloh"
   ],
   "G\u00fctzkow": [
-    "G\u00fctzkow"
+    "G\u00fctzkow",
+    "Guetzkow"
   ],
   "Haan": [
     "Haan"
@@ -2151,7 +2334,8 @@
     "Hannover"
   ],
   "Hann. M\u00fcnden": [
-    "Hann. M\u00fcnden"
+    "Hann. M\u00fcnden",
+    "Hann. Muenden"
   ],
   "Harburg": [
     "Harburg"
@@ -2175,13 +2359,15 @@
     "Harzgerode"
   ],
   "Hasel\u00fcnne": [
-    "Hasel\u00fcnne"
+    "Hasel\u00fcnne",
+    "Haseluenne"
   ],
   "Haslach im Kinzigtal": [
     "Haslach im Kinzigtal"
   ],
   "Ha\u00dffurt": [
-    "Ha\u00dffurt"
+    "Ha\u00dffurt",
+    "Hassfurt"
   ],
   "Hattersheim am Main": [
     "Hattersheim am Main"
@@ -2310,7 +2496,8 @@
     "Herford"
   ],
   "Heringen/Helme": [
-    "Heringen/Helme"
+    "Heringen/Helme",
+    "Heringen Helme"
   ],
   "Heringen": [
     "Heringen"
@@ -2403,10 +2590,12 @@
     "Hochheim am Main"
   ],
   "H\u00f6chstadt an der Aisch": [
-    "H\u00f6chstadt an der Aisch"
+    "H\u00f6chstadt an der Aisch",
+    "Hoechstadt an der Aisch"
   ],
   "H\u00f6chst\u00e4dt an der Donau": [
-    "H\u00f6chst\u00e4dt an der Donau"
+    "H\u00f6chst\u00e4dt an der Donau",
+    "Hoechstaedt an der Donau"
   ],
   "Hockenheim": [
     "Hockenheim"
@@ -2430,19 +2619,24 @@
     "Hohenleuben"
   ],
   "Hohenm\u00f6lsen": [
-    "Hohenm\u00f6lsen"
+    "Hohenm\u00f6lsen",
+    "Hohenmoelsen"
   ],
   "Hohen Neuendorf": [
     "Hohen Neuendorf"
   ],
   "Hohenstein-Ernstthal": [
-    "Hohenstein-Ernstthal"
+    "Hohenstein-Ernstthal",
+    "Hohenstein Ernstthal"
   ],
   "Hohnstein": [
     "Hohnstein"
   ],
   "H\u00f6hr-Grenzhausen": [
-    "H\u00f6hr-Grenzhausen"
+    "H\u00f6hr-Grenzhausen",
+    "Hoehr-Grenzhausen",
+    "H\u00f6hr Grenzhausen",
+    "Hoehr Grenzhausen"
   ],
   "Hollfeld": [
     "Hollfeld"
@@ -2466,19 +2660,22 @@
     "Hornbach"
   ],
   "Horn-Bad Meinberg": [
-    "Horn-Bad Meinberg"
+    "Horn-Bad Meinberg",
+    "Horn Bad Meinberg"
   ],
   "Hornberg": [
     "Hornberg"
   ],
   "H\u00f6rstel": [
-    "H\u00f6rstel"
+    "H\u00f6rstel",
+    "Hoerstel"
   ],
   "Horstmar": [
     "Horstmar"
   ],
   "H\u00f6xter": [
-    "H\u00f6xter"
+    "H\u00f6xter",
+    "Hoexter"
   ],
   "Hoya": [
     "Hoya"
@@ -2487,34 +2684,41 @@
     "Hoyerswerda"
   ],
   "H\u00fcckelhoven": [
-    "H\u00fcckelhoven"
+    "H\u00fcckelhoven",
+    "Hueckelhoven"
   ],
   "H\u00fcckeswagen": [
-    "H\u00fcckeswagen"
+    "H\u00fcckeswagen",
+    "Hueckeswagen"
   ],
   "H\u00fcfingen": [
-    "H\u00fcfingen"
+    "H\u00fcfingen",
+    "Huefingen"
   ],
   "H\u00fcnfeld": [
-    "H\u00fcnfeld"
+    "H\u00fcnfeld",
+    "Huenfeld"
   ],
   "Hungen": [
     "Hungen"
   ],
   "H\u00fcrth": [
-    "H\u00fcrth"
+    "H\u00fcrth",
+    "Huerth"
   ],
   "Husum": [
     "Husum"
   ],
   "Ibbenb\u00fcren": [
-    "Ibbenb\u00fcren"
+    "Ibbenb\u00fcren",
+    "Ibbenbueren"
   ],
   "Ichenhausen": [
     "Ichenhausen"
   ],
   "Idar-Oberstein": [
-    "Idar-Oberstein"
+    "Idar-Oberstein",
+    "Idar Oberstein"
   ],
   "Idstein": [
     "Idstein"
@@ -2535,7 +2739,8 @@
     "Immenhausen"
   ],
   "Immenstadt im Allg\u00e4u": [
-    "Immenstadt im Allg\u00e4u"
+    "Immenstadt im Allg\u00e4u",
+    "Immenstadt im Allgaeu"
   ],
   "Ingelfingen": [
     "Ingelfingen"
@@ -2553,7 +2758,8 @@
     "Iserlohn"
   ],
   "Isny im Allg\u00e4u": [
-    "Isny im Allg\u00e4u"
+    "Isny im Allg\u00e4u",
+    "Isny im Allgaeu"
   ],
   "Isselburg": [
     "Isselburg"
@@ -2583,13 +2789,16 @@
     "Johanngeorgenstadt"
   ],
   "J\u00f6hstadt": [
-    "J\u00f6hstadt"
+    "J\u00f6hstadt",
+    "Joehstadt"
   ],
   "J\u00fclich": [
-    "J\u00fclich"
+    "J\u00fclich",
+    "Juelich"
   ],
   "J\u00fcterbog": [
-    "J\u00fcterbog"
+    "J\u00fcterbog",
+    "Jueterbog"
   ],
   "Kaarst": [
     "Kaarst"
@@ -2622,7 +2831,8 @@
     "Kamenz"
   ],
   "Kamp-Lintfort": [
-    "Kamp-Lintfort"
+    "Kamp-Lintfort",
+    "Kamp Lintfort"
   ],
   "Kandel": [
     "Kandel"
@@ -2694,7 +2904,8 @@
     "Kerpen"
   ],
   "Ketzin/Havel": [
-    "Ketzin/Havel"
+    "Ketzin/Havel",
+    "Ketzin Havel"
   ],
   "Kevelaer": [
     "Kevelaer"
@@ -2706,7 +2917,8 @@
     "Kierspe"
   ],
   "Kindelbr\u00fcck": [
-    "Kindelbr\u00fcck"
+    "Kindelbr\u00fcck",
+    "Kindelbrueck"
   ],
   "Kirchberg": [
     "Kirchberg"
@@ -2751,10 +2963,12 @@
     "Klingenthal"
   ],
   "Kl\u00f6tze": [
-    "Kl\u00f6tze"
+    "Kl\u00f6tze",
+    "Kloetze"
   ],
   "Kl\u00fctz": [
-    "Kl\u00fctz"
+    "Kl\u00fctz",
+    "Kluetz"
   ],
   "Knittlingen": [
     "Knittlingen"
@@ -2763,46 +2977,61 @@
     "Koblenz"
   ],
   "Kohren-Sahlis": [
-    "Kohren-Sahlis"
+    "Kohren-Sahlis",
+    "Kohren Sahlis"
   ],
   "Kolbermoor": [
     "Kolbermoor"
   ],
   "K\u00f6lleda": [
-    "K\u00f6lleda"
+    "K\u00f6lleda",
+    "Koelleda"
   ],
   "K\u00f6ln": [
-    "K\u00f6ln"
+    "K\u00f6ln",
+    "Koeln"
   ],
   "K\u00f6nigsberg in Bayern": [
-    "K\u00f6nigsberg in Bayern"
+    "K\u00f6nigsberg in Bayern",
+    "Koenigsberg in Bayern"
   ],
   "K\u00f6nigsbr\u00fcck": [
-    "K\u00f6nigsbr\u00fcck"
+    "K\u00f6nigsbr\u00fcck",
+    "Koenigsbrueck"
   ],
   "K\u00f6nigsbrunn": [
-    "K\u00f6nigsbrunn"
+    "K\u00f6nigsbrunn",
+    "Koenigsbrunn"
   ],
   "K\u00f6nigsee-Rottenbach": [
-    "K\u00f6nigsee-Rottenbach"
+    "K\u00f6nigsee-Rottenbach",
+    "Koenigsee-Rottenbach",
+    "K\u00f6nigsee Rottenbach",
+    "Koenigsee Rottenbach"
   ],
   "K\u00f6nigslutter am Elm": [
-    "K\u00f6nigslutter am Elm"
+    "K\u00f6nigslutter am Elm",
+    "Koenigslutter am Elm"
   ],
   "K\u00f6nigstein im Taunus": [
-    "K\u00f6nigstein im Taunus"
+    "K\u00f6nigstein im Taunus",
+    "Koenigstein im Taunus"
   ],
   "K\u00f6nigstein": [
-    "K\u00f6nigstein"
+    "K\u00f6nigstein",
+    "Koenigstein"
   ],
   "K\u00f6nigswinter": [
-    "K\u00f6nigswinter"
+    "K\u00f6nigswinter",
+    "Koenigswinter"
   ],
   "K\u00f6nigs Wusterhausen": [
-    "K\u00f6nigs Wusterhausen"
+    "K\u00f6nigs Wusterhausen",
+    "Koenigs Wusterhausen"
   ],
   "K\u00f6nnern": [
-    "K\u00f6nnern"
+    "K\u00f6nnern",
+    "Koennern"
   ],
   "Konstanz": [
     "Konstanz"
@@ -2814,7 +3043,10 @@
     "Korbach"
   ],
   "Korntal-M\u00fcnchingen": [
-    "Korntal-M\u00fcnchingen"
+    "Korntal-M\u00fcnchingen",
+    "Korntal-Muenchingen",
+    "Korntal M\u00fcnchingen",
+    "Korntal Muenchingen"
   ],
   "Kornwestheim": [
     "Kornwestheim"
@@ -2823,7 +3055,8 @@
     "Korschenbroich"
   ],
   "K\u00f6then": [
-    "K\u00f6then"
+    "K\u00f6then",
+    "Koethen"
   ],
   "Kraichtal": [
     "Kraichtal"
@@ -2856,7 +3089,8 @@
     "Kronberg im Taunus"
   ],
   "Kr\u00f6pelin": [
-    "Kr\u00f6pelin"
+    "Kr\u00f6pelin",
+    "Kroepelin"
   ],
   "Kroppenstedt": [
     "Kroppenstedt"
@@ -2865,16 +3099,19 @@
     "Krumbach"
   ],
   "K\u00fchlungsborn": [
-    "K\u00fchlungsborn"
+    "K\u00fchlungsborn",
+    "Kuehlungsborn"
   ],
   "Kulmbach": [
     "Kulmbach"
   ],
   "K\u00fclsheim": [
-    "K\u00fclsheim"
+    "K\u00fclsheim",
+    "Kuelsheim"
   ],
   "K\u00fcnzelsau": [
-    "K\u00fcnzelsau"
+    "K\u00fcnzelsau",
+    "Kuenzelsau"
   ],
   "Kupferberg": [
     "Kupferberg"
@@ -2907,7 +3144,8 @@
     "Lahnstein"
   ],
   "Lahr/Schwarzwald": [
-    "Lahr/Schwarzwald"
+    "Lahr/Schwarzwald",
+    "Lahr Schwarzwald"
   ],
   "Laichingen": [
     "Laichingen"
@@ -2979,10 +3217,14 @@
     "Lauchheim"
   ],
   "Lauda-K\u00f6nigshofen": [
-    "Lauda-K\u00f6nigshofen"
+    "Lauda-K\u00f6nigshofen",
+    "Lauda-Koenigshofen",
+    "Lauda K\u00f6nigshofen",
+    "Lauda Koenigshofen"
   ],
   "Lauenburg/Elbe": [
-    "Lauenburg/Elbe"
+    "Lauenburg/Elbe",
+    "Lauenburg Elbe"
   ],
   "Lauf an der Pegnitz": [
     "Lauf an der Pegnitz"
@@ -3009,7 +3251,8 @@
     "Lauta"
   ],
   "Lauter-Bernsbach": [
-    "Lauter-Bernsbach"
+    "Lauter-Bernsbach",
+    "Lauter Bernsbach"
   ],
   "Lauterbach": [
     "Lauterbach"
@@ -3042,10 +3285,12 @@
     "Leimen"
   ],
   "Leinefelde-Worbis": [
-    "Leinefelde-Worbis"
+    "Leinefelde-Worbis",
+    "Leinefelde Worbis"
   ],
   "Leinfelden-Echterdingen": [
-    "Leinfelden-Echterdingen"
+    "Leinfelden-Echterdingen",
+    "Leinfelden Echterdingen"
   ],
   "Leipheim": [
     "Leipheim"
@@ -3087,7 +3332,8 @@
     "Leutershausen"
   ],
   "Leutkirch im Allg\u00e4u": [
-    "Leutkirch im Allg\u00e4u"
+    "Leutkirch im Allg\u00e4u",
+    "Leutkirch im Allgaeu"
   ],
   "Leverkusen": [
     "Leverkusen"
@@ -3105,7 +3351,8 @@
     "Lichtenfels"
   ],
   "Lichtenstein/Sa.": [
-    "Lichtenstein/Sa."
+    "Lichtenstein/Sa.",
+    "Lichtenstein Sa."
   ],
   "Liebenau": [
     "Liebenau"
@@ -3120,7 +3367,8 @@
     "Liebstadt"
   ],
   "Limbach-Oberfrohna": [
-    "Limbach-Oberfrohna"
+    "Limbach-Oberfrohna",
+    "Limbach Oberfrohna"
   ],
   "Limburg an der Lahn": [
     "Limburg an der Lahn"
@@ -3132,7 +3380,8 @@
     "Linden"
   ],
   "Lindenberg im Allg\u00e4u": [
-    "Lindenberg im Allg\u00e4u"
+    "Lindenberg im Allg\u00e4u",
+    "Lindenberg im Allgaeu"
   ],
   "Lindenfels": [
     "Lindenfels"
@@ -3153,10 +3402,12 @@
     "Lippstadt"
   ],
   "L\u00f6bau": [
-    "L\u00f6bau"
+    "L\u00f6bau",
+    "Loebau"
   ],
   "L\u00f6ffingen": [
-    "L\u00f6ffingen"
+    "L\u00f6ffingen",
+    "Loeffingen"
   ],
   "Lohmar": [
     "Lohmar"
@@ -3165,7 +3416,8 @@
     "Lohne"
   ],
   "L\u00f6hne": [
-    "L\u00f6hne"
+    "L\u00f6hne",
+    "Loehne"
   ],
   "Lohr am Main": [
     "Lohr am Main"
@@ -3180,43 +3432,56 @@
     "Lommatzsch"
   ],
   "L\u00f6ningen": [
-    "L\u00f6ningen"
+    "L\u00f6ningen",
+    "Loeningen"
   ],
   "Lorch": [
     "Lorch"
   ],
   "L\u00f6rrach": [
-    "L\u00f6rrach"
+    "L\u00f6rrach",
+    "Loerrach"
   ],
   "Lorsch": [
     "Lorsch"
   ],
   "L\u00f6\u00dfnitz": [
-    "L\u00f6\u00dfnitz"
+    "L\u00f6\u00dfnitz",
+    "Loessnitz"
   ],
   "L\u00f6wenstein": [
-    "L\u00f6wenstein"
+    "L\u00f6wenstein",
+    "Loewenstein"
   ],
   "L\u00fcbbecke": [
-    "L\u00fcbbecke"
+    "L\u00fcbbecke",
+    "Luebbecke"
   ],
   "L\u00fcbben": [
-    "L\u00fcbben"
+    "L\u00fcbben",
+    "Luebben"
   ],
   "L\u00fcbbenau/Spreewald": [
-    "L\u00fcbbenau/Spreewald"
+    "L\u00fcbbenau/Spreewald",
+    "Luebbenau/Spreewald",
+    "L\u00fcbbenau Spreewald",
+    "Luebbenau Spreewald"
   ],
   "L\u00fcbeck, Hansestadt": [
-    "L\u00fcbeck, Hansestadt"
+    "L\u00fcbeck, Hansestadt",
+    "Luebeck, Hansestadt"
   ],
   "L\u00fcbtheen": [
-    "L\u00fcbtheen"
+    "L\u00fcbtheen",
+    "Luebtheen"
   ],
   "L\u00fcbz": [
-    "L\u00fcbz"
+    "L\u00fcbz",
+    "Luebz"
   ],
   "L\u00fcchow": [
-    "L\u00fcchow"
+    "L\u00fcchow",
+    "Luechow"
   ],
   "Lucka": [
     "Lucka"
@@ -3228,10 +3493,12 @@
     "Luckenwalde"
   ],
   "L\u00fcdenscheid": [
-    "L\u00fcdenscheid"
+    "L\u00fcdenscheid",
+    "Luedenscheid"
   ],
   "L\u00fcdinghausen": [
-    "L\u00fcdinghausen"
+    "L\u00fcdinghausen",
+    "Luedinghausen"
   ],
   "Ludwigsburg": [
     "Ludwigsburg"
@@ -3252,22 +3519,27 @@
     "Lugau"
   ],
   "L\u00fcgde": [
-    "L\u00fcgde"
+    "L\u00fcgde",
+    "Luegde"
   ],
   "L\u00fcneburg, Hansestadt": [
-    "L\u00fcneburg, Hansestadt"
+    "L\u00fcneburg, Hansestadt",
+    "Lueneburg, Hansestadt"
   ],
   "L\u00fcnen": [
-    "L\u00fcnen"
+    "L\u00fcnen",
+    "Luenen"
   ],
   "Lunzenau": [
     "Lunzenau"
   ],
   "L\u00fctjenburg": [
-    "L\u00fctjenburg"
+    "L\u00fctjenburg",
+    "Luetjenburg"
   ],
   "L\u00fctzen": [
-    "L\u00fctzen"
+    "L\u00fctzen",
+    "Luetzen"
   ],
   "Lychen": [
     "Lychen"
@@ -3318,16 +3590,19 @@
     "Marienberg"
   ],
   "Marienm\u00fcnster": [
-    "Marienm\u00fcnster"
+    "Marienm\u00fcnster",
+    "Marienmuenster"
   ],
   "Markdorf": [
     "Markdorf"
   ],
   "Markgr\u00f6ningen": [
-    "Markgr\u00f6ningen"
+    "Markgr\u00f6ningen",
+    "Markgroeningen"
   ],
   "M\u00e4rkisch Buchholz": [
-    "M\u00e4rkisch Buchholz"
+    "M\u00e4rkisch Buchholz",
+    "Maerkisch Buchholz"
   ],
   "Markkleeberg": [
     "Markkleeberg"
@@ -3336,7 +3611,8 @@
     "Markneukirchen"
   ],
   "Markranst\u00e4dt": [
-    "Markranst\u00e4dt"
+    "Markranst\u00e4dt",
+    "Markranstaedt"
   ],
   "Marktbreit": [
     "Marktbreit"
@@ -3372,7 +3648,10 @@
     "Maulbronn"
   ],
   "Maxh\u00fctte-Haidhof": [
-    "Maxh\u00fctte-Haidhof"
+    "Maxh\u00fctte-Haidhof",
+    "Maxhuette-Haidhof",
+    "Maxh\u00fctte Haidhof",
+    "Maxhuette Haidhof"
   ],
   "Mayen": [
     "Mayen"
@@ -3405,7 +3684,8 @@
     "Meisenheim"
   ],
   "Mei\u00dfen": [
-    "Mei\u00dfen"
+    "Mei\u00dfen",
+    "Meissen"
   ],
   "Meldorf": [
     "Meldorf"
@@ -3447,10 +3727,12 @@
     "Meschede"
   ],
   "Me\u00dfkirch": [
-    "Me\u00dfkirch"
+    "Me\u00dfkirch",
+    "Messkirch"
   ],
   "Me\u00dfstetten": [
-    "Me\u00dfstetten"
+    "Me\u00dfstetten",
+    "Messstetten"
   ],
   "Mettmann": [
     "Mettmann"
@@ -3492,19 +3774,23 @@
     "Mittweida"
   ],
   "M\u00f6ckern": [
-    "M\u00f6ckern"
+    "M\u00f6ckern",
+    "Moeckern"
   ],
   "M\u00f6ckm\u00fchl": [
-    "M\u00f6ckm\u00fchl"
+    "M\u00f6ckm\u00fchl",
+    "Moeckmuehl"
   ],
   "Moers": [
     "Moers"
   ],
   "M\u00f6lln": [
-    "M\u00f6lln"
+    "M\u00f6lln",
+    "Moelln"
   ],
   "M\u00f6nchengladbach": [
-    "M\u00f6nchengladbach"
+    "M\u00f6nchengladbach",
+    "Moenchengladbach"
   ],
   "Monheim am Rhein": [
     "Monheim am Rhein"
@@ -3522,7 +3808,10 @@
     "Moosburg an der Isar"
   ],
   "M\u00f6rfelden-Walldorf": [
-    "M\u00f6rfelden-Walldorf"
+    "M\u00f6rfelden-Walldorf",
+    "Moerfelden-Walldorf",
+    "M\u00f6rfelden Walldorf",
+    "Moerfelden Walldorf"
   ],
   "Moringen": [
     "Moringen"
@@ -3531,76 +3820,104 @@
     "Mosbach"
   ],
   "M\u00f6ssingen": [
-    "M\u00f6ssingen"
+    "M\u00f6ssingen",
+    "Moessingen"
   ],
   "M\u00fccheln": [
-    "M\u00fccheln"
+    "M\u00fccheln",
+    "Muecheln"
   ],
   "M\u00fcgeln": [
-    "M\u00fcgeln"
+    "M\u00fcgeln",
+    "Muegeln"
   ],
   "M\u00fchlacker": [
-    "M\u00fchlacker"
+    "M\u00fchlacker",
+    "Muehlacker"
   ],
   "M\u00fchlberg/Elbe": [
-    "M\u00fchlberg/Elbe"
+    "M\u00fchlberg/Elbe",
+    "Muehlberg/Elbe",
+    "M\u00fchlberg Elbe",
+    "Muehlberg Elbe"
   ],
   "M\u00fchldorf am Inn": [
-    "M\u00fchldorf am Inn"
+    "M\u00fchldorf am Inn",
+    "Muehldorf am Inn"
   ],
   "M\u00fchlhausen/Th\u00fcringen": [
-    "M\u00fchlhausen/Th\u00fcringen"
+    "M\u00fchlhausen/Th\u00fcringen",
+    "Muehlhausen/Thueringen",
+    "M\u00fchlhausen Th\u00fcringen",
+    "Muehlhausen Thueringen"
   ],
   "M\u00fchlheim am Main": [
-    "M\u00fchlheim am Main"
+    "M\u00fchlheim am Main",
+    "Muehlheim am Main"
   ],
   "M\u00fchlheim an der Donau": [
-    "M\u00fchlheim an der Donau"
+    "M\u00fchlheim an der Donau",
+    "Muehlheim an der Donau"
   ],
   "M\u00fclheim an der Ruhr": [
-    "M\u00fclheim an der Ruhr"
+    "M\u00fclheim an der Ruhr",
+    "Muelheim an der Ruhr"
   ],
   "M\u00fclheim-K\u00e4rlich": [
-    "M\u00fclheim-K\u00e4rlich"
+    "M\u00fclheim-K\u00e4rlich",
+    "Muelheim-Kaerlich",
+    "M\u00fclheim K\u00e4rlich",
+    "Muelheim Kaerlich"
   ],
   "M\u00fcllheim": [
-    "M\u00fcllheim"
+    "M\u00fcllheim",
+    "Muellheim"
   ],
   "M\u00fcllrose": [
-    "M\u00fcllrose"
+    "M\u00fcllrose",
+    "Muellrose"
   ],
   "M\u00fcnchberg": [
-    "M\u00fcnchberg"
+    "M\u00fcnchberg",
+    "Muenchberg"
   ],
   "M\u00fcncheberg": [
-    "M\u00fcncheberg"
+    "M\u00fcncheberg",
+    "Muencheberg"
   ],
   "M\u00fcnchen": [
-    "M\u00fcnchen"
+    "M\u00fcnchen",
+    "Muenchen"
   ],
   "M\u00fcnchenbernsdorf": [
-    "M\u00fcnchenbernsdorf"
+    "M\u00fcnchenbernsdorf",
+    "Muenchenbernsdorf"
   ],
   "Munderkingen": [
     "Munderkingen"
   ],
   "M\u00fcnnerstadt": [
-    "M\u00fcnnerstadt"
+    "M\u00fcnnerstadt",
+    "Muennerstadt"
   ],
   "M\u00fcnsingen": [
-    "M\u00fcnsingen"
+    "M\u00fcnsingen",
+    "Muensingen"
   ],
   "Munster": [
     "Munster"
   ],
   "M\u00fcnster": [
-    "M\u00fcnster"
+    "M\u00fcnster",
+    "Muenster"
   ],
   "M\u00fcnstermaifeld": [
-    "M\u00fcnstermaifeld"
+    "M\u00fcnstermaifeld",
+    "Muenstermaifeld"
   ],
   "M\u00fcnzenberg": [
-    "M\u00fcnzenberg"
+    "M\u00fcnzenberg",
+    "Muenzenberg"
   ],
   "Murrhardt": [
     "Murrhardt"
@@ -3618,7 +3935,8 @@
     "Nassau"
   ],
   "Nast\u00e4tten": [
-    "Nast\u00e4tten"
+    "Nast\u00e4tten",
+    "Nastaetten"
   ],
   "Nauen": [
     "Nauen"
@@ -3636,7 +3954,8 @@
     "Neckarbischofsheim"
   ],
   "Neckargem\u00fcnd": [
-    "Neckargem\u00fcnd"
+    "Neckargem\u00fcnd",
+    "Neckargemuend"
   ],
   "Neckarsteinach": [
     "Neckarsteinach"
@@ -3657,7 +3976,8 @@
     "Netzschkau"
   ],
   "Neu-Anspach": [
-    "Neu-Anspach"
+    "Neu-Anspach",
+    "Neu Anspach"
   ],
   "Neubrandenburg": [
     "Neubrandenburg"
@@ -3675,7 +3995,8 @@
     "Neudenau"
   ],
   "Neuenb\u00fcrg": [
-    "Neuenb\u00fcrg"
+    "Neuenb\u00fcrg",
+    "Neuenbuerg"
   ],
   "Neuenburg am Rhein": [
     "Neuenburg am Rhein"
@@ -3702,7 +4023,8 @@
     "Neuhaus am Rennweg"
   ],
   "Neu-Isenburg": [
-    "Neu-Isenburg"
+    "Neu-Isenburg",
+    "Neu Isenburg"
   ],
   "Neukalen": [
     "Neukalen"
@@ -3711,7 +4033,8 @@
     "Neukirchen"
   ],
   "Neukirchen-Vluyn": [
-    "Neukirchen-Vluyn"
+    "Neukirchen-Vluyn",
+    "Neukirchen Vluyn"
   ],
   "Neukloster": [
     "Neukloster"
@@ -3723,10 +4046,12 @@
     "Neumarkt in der Oberpfalz"
   ],
   "Neumarkt-Sankt Veit": [
-    "Neumarkt-Sankt Veit"
+    "Neumarkt-Sankt Veit",
+    "Neumarkt Sankt Veit"
   ],
   "Neum\u00fcnster": [
-    "Neum\u00fcnster"
+    "Neum\u00fcnster",
+    "Neumuenster"
   ],
   "Neunburg vorm Wald": [
     "Neunburg vorm Wald"
@@ -3735,16 +4060,19 @@
     "Neunkirchen"
   ],
   "Neu\u00f6tting": [
-    "Neu\u00f6tting"
+    "Neu\u00f6tting",
+    "Neuoetting"
   ],
   "Neuruppin": [
     "Neuruppin"
   ],
   "Neusalza-Spremberg": [
-    "Neusalza-Spremberg"
+    "Neusalza-Spremberg",
+    "Neusalza Spremberg"
   ],
   "Neus\u00e4\u00df": [
-    "Neus\u00e4\u00df"
+    "Neus\u00e4\u00df",
+    "Neusaess"
   ],
   "Neuss": [
     "Neuss"
@@ -3762,13 +4090,15 @@
     "Neustadt am Kulm"
   ],
   "Neustadt am R\u00fcbenberge": [
-    "Neustadt am R\u00fcbenberge"
+    "Neustadt am R\u00fcbenberge",
+    "Neustadt am Ruebenberge"
   ],
   "Neustadt an der Orla": [
     "Neustadt an der Orla"
   ],
   "Neustadt an der Weinstra\u00dfe": [
-    "Neustadt an der Weinstra\u00dfe"
+    "Neustadt an der Weinstra\u00dfe",
+    "Neustadt an der Weinstrasse"
   ],
   "Neustadt bei Coburg": [
     "Neustadt bei Coburg"
@@ -3777,7 +4107,8 @@
     "Neustadt"
   ],
   "Neustadt-Glewe": [
-    "Neustadt-Glewe"
+    "Neustadt-Glewe",
+    "Neustadt Glewe"
   ],
   "Neustadt in Holstein": [
     "Neustadt in Holstein"
@@ -3792,7 +4123,8 @@
     "Neutraubling"
   ],
   "Neu-Ulm": [
-    "Neu-Ulm"
+    "Neu-Ulm",
+    "Neu Ulm"
   ],
   "Neuwied": [
     "Neuwied"
@@ -3810,7 +4142,8 @@
     "Nideggen"
   ],
   "Nieb\u00fcll": [
-    "Nieb\u00fcll"
+    "Nieb\u00fcll",
+    "Niebuell"
   ],
   "Niedenstein": [
     "Niedenstein"
@@ -3822,7 +4155,8 @@
     "Niedernhall"
   ],
   "Nieder-Olm": [
-    "Nieder-Olm"
+    "Nieder-Olm",
+    "Nieder Olm"
   ],
   "Niederstetten": [
     "Niederstetten"
@@ -3840,7 +4174,8 @@
     "Nienburg"
   ],
   "Nienburg/Weser": [
-    "Nienburg/Weser"
+    "Nienburg/Weser",
+    "Nienburg Weser"
   ],
   "Nierstein": [
     "Nierstein"
@@ -3870,7 +4205,8 @@
     "Nordhorn"
   ],
   "N\u00f6rdlingen": [
-    "N\u00f6rdlingen"
+    "N\u00f6rdlingen",
+    "Noerdlingen"
   ],
   "Northeim": [
     "Northeim"
@@ -3882,10 +4218,12 @@
     "Nossen"
   ],
   "N\u00fcrnberg": [
-    "N\u00fcrnberg"
+    "N\u00fcrnberg",
+    "Nuernberg"
   ],
   "N\u00fcrtingen": [
-    "N\u00fcrtingen"
+    "N\u00fcrtingen",
+    "Nuertingen"
   ],
   "Oberasbach": [
     "Oberasbach"
@@ -3921,7 +4259,8 @@
     "Obernkirchen"
   ],
   "Ober-Ramstadt": [
-    "Ober-Ramstadt"
+    "Ober-Ramstadt",
+    "Ober Ramstadt"
   ],
   "Oberriexingen": [
     "Oberriexingen"
@@ -3936,7 +4275,10 @@
     "Oberviechtach"
   ],
   "Oberwei\u00dfbach/Th\u00fcr. Wald": [
-    "Oberwei\u00dfbach/Th\u00fcr. Wald"
+    "Oberwei\u00dfbach/Th\u00fcr. Wald",
+    "Oberweissbach/Thuer. Wald",
+    "Oberwei\u00dfbach Th\u00fcr. Wald",
+    "Oberweissbach Thuer. Wald"
   ],
   "Oberwesel": [
     "Oberwesel"
@@ -3957,7 +4299,8 @@
     "Oderberg"
   ],
   "Oebisfelde-Weferlingen": [
-    "Oebisfelde-Weferlingen"
+    "Oebisfelde-Weferlingen",
+    "Oebisfelde Weferlingen"
   ],
   "Oederan": [
     "Oederan"
@@ -3966,19 +4309,23 @@
     "Oelde"
   ],
   "Oelsnitz/Erzgeb.": [
-    "Oelsnitz/Erzgeb."
+    "Oelsnitz/Erzgeb.",
+    "Oelsnitz Erzgeb."
   ],
   "Oelsnitz/Vogtl.": [
-    "Oelsnitz/Vogtl."
+    "Oelsnitz/Vogtl.",
+    "Oelsnitz Vogtl."
   ],
   "Oer-Erkenschwick": [
-    "Oer-Erkenschwick"
+    "Oer-Erkenschwick",
+    "Oer Erkenschwick"
   ],
   "Oerlinghausen": [
     "Oerlinghausen"
   ],
   "Oestrich-Winkel": [
-    "Oestrich-Winkel"
+    "Oestrich-Winkel",
+    "Oestrich Winkel"
   ],
   "Oettingen in Bayern": [
     "Oettingen in Bayern"
@@ -4023,13 +4370,17 @@
     "Oppenheim"
   ],
   "Oranienbaum-W\u00f6rlitz": [
-    "Oranienbaum-W\u00f6rlitz"
+    "Oranienbaum-W\u00f6rlitz",
+    "Oranienbaum-Woerlitz",
+    "Oranienbaum W\u00f6rlitz",
+    "Oranienbaum Woerlitz"
   ],
   "Oranienburg": [
     "Oranienburg"
   ],
   "Orlam\u00fcnde": [
-    "Orlam\u00fcnde"
+    "Orlam\u00fcnde",
+    "Orlamuende"
   ],
   "Ornbau": [
     "Ornbau"
@@ -4047,7 +4398,8 @@
     "Oschersleben"
   ],
   "Osnabr\u00fcck": [
-    "Osnabr\u00fcck"
+    "Osnabr\u00fcck",
+    "Osnabrueck"
   ],
   "Osterburg": [
     "Osterburg"
@@ -4062,7 +4414,8 @@
     "Osterhofen"
   ],
   "Osterholz-Scharmbeck": [
-    "Osterholz-Scharmbeck"
+    "Osterholz-Scharmbeck",
+    "Osterholz Scharmbeck"
   ],
   "Osterode am Harz": [
     "Osterode am Harz"
@@ -4074,7 +4427,8 @@
     "Ostfildern"
   ],
   "Ostheim vor der Rh\u00f6n": [
-    "Ostheim vor der Rh\u00f6n"
+    "Ostheim vor der Rh\u00f6n",
+    "Ostheim vor der Rhoen"
   ],
   "Osthofen": [
     "Osthofen"
@@ -4125,7 +4479,10 @@
     "Pattensen"
   ],
   "Pausa-M\u00fchltroff": [
-    "Pausa-M\u00fchltroff"
+    "Pausa-M\u00fchltroff",
+    "Pausa-Muehltroff",
+    "Pausa M\u00fchltroff",
+    "Pausa Muehltroff"
   ],
   "Pegau": [
     "Pegau"
@@ -4212,10 +4569,12 @@
     "Plochingen"
   ],
   "Pl\u00f6n": [
-    "Pl\u00f6n"
+    "Pl\u00f6n",
+    "Ploen"
   ],
   "Pockau-Lengefeld": [
-    "Pockau-Lengefeld"
+    "Pockau-Lengefeld",
+    "Pockau Lengefeld"
   ],
   "Pocking": [
     "Pocking"
@@ -4230,7 +4589,8 @@
     "Porta Westfalica"
   ],
   "P\u00f6\u00dfneck": [
-    "P\u00f6\u00dfneck"
+    "P\u00f6\u00dfneck",
+    "Poessneck"
   ],
   "Potsdam": [
     "Potsdam"
@@ -4251,7 +4611,8 @@
     "Pressath"
   ],
   "Preu\u00dfisch Oldendorf": [
-    "Preu\u00dfisch Oldendorf"
+    "Preu\u00dfisch Oldendorf",
+    "Preussisch Oldendorf"
   ],
   "Prichsenstadt": [
     "Prichsenstadt"
@@ -4260,7 +4621,8 @@
     "Pritzwalk"
   ],
   "Pr\u00fcm": [
-    "Pr\u00fcm"
+    "Pr\u00fcm",
+    "Pruem"
   ],
   "Puchheim": [
     "Puchheim"
@@ -4278,10 +4640,12 @@
     "Putlitz"
   ],
   "P\u00fcttlingen": [
-    "P\u00fcttlingen"
+    "P\u00fcttlingen",
+    "Puettlingen"
   ],
   "Quakenbr\u00fcck": [
-    "Quakenbr\u00fcck"
+    "Quakenbr\u00fcck",
+    "Quakenbrueck"
   ],
   "Quedlinburg": [
     "Quedlinburg"
@@ -4311,7 +4675,10 @@
     "Radolfzell am Bodensee"
   ],
   "Raguhn-Je\u00dfnitz": [
-    "Raguhn-Je\u00dfnitz"
+    "Raguhn-Je\u00dfnitz",
+    "Raguhn-Jessnitz",
+    "Raguhn Je\u00dfnitz",
+    "Raguhn Jessnitz"
   ],
   "Rahden": [
     "Rahden"
@@ -4320,13 +4687,15 @@
     "Rain"
   ],
   "Ramstein-Miesenbach": [
-    "Ramstein-Miesenbach"
+    "Ramstein-Miesenbach",
+    "Ramstein Miesenbach"
   ],
   "Ranis": [
     "Ranis"
   ],
   "Ransbach-Baumbach": [
-    "Ransbach-Baumbach"
+    "Ransbach-Baumbach",
+    "Ransbach Baumbach"
   ],
   "Rastatt": [
     "Rastatt"
@@ -4371,13 +4740,15 @@
     "Regensburg"
   ],
   "Regis-Breitingen": [
-    "Regis-Breitingen"
+    "Regis-Breitingen",
+    "Regis Breitingen"
   ],
   "Rehau": [
     "Rehau"
   ],
   "Rehburg-Loccum": [
-    "Rehburg-Loccum"
+    "Rehburg-Loccum",
+    "Rehburg Loccum"
   ],
   "Rehna": [
     "Rehna"
@@ -4389,7 +4760,8 @@
     "Reichenbach im Vogtland"
   ],
   "Reichenbach/O.L.": [
-    "Reichenbach/O.L."
+    "Reichenbach/O.L.",
+    "Reichenbach O.L."
   ],
   "Reinbek": [
     "Reinbek"
@@ -4404,7 +4776,8 @@
     "Remagen"
   ],
   "Remda-Teichel": [
-    "Remda-Teichel"
+    "Remda-Teichel",
+    "Remda Teichel"
   ],
   "Remscheid": [
     "Remscheid"
@@ -4434,7 +4807,10 @@
     "Reutlingen"
   ],
   "Rheda-Wiedenbr\u00fcck": [
-    "Rheda-Wiedenbr\u00fcck"
+    "Rheda-Wiedenbr\u00fcck",
+    "Rheda-Wiedenbrueck",
+    "Rheda Wiedenbr\u00fcck",
+    "Rheda Wiedenbrueck"
   ],
   "Rhede": [
     "Rhede"
@@ -4449,7 +4825,8 @@
     "Rheinberg"
   ],
   "Rheinb\u00f6llen": [
-    "Rheinb\u00f6llen"
+    "Rheinb\u00f6llen",
+    "Rheinboellen"
   ],
   "Rheine": [
     "Rheine"
@@ -4470,7 +4847,8 @@
     "Rhinow"
   ],
   "Ribnitz-Damgarten": [
-    "Ribnitz-Damgarten"
+    "Ribnitz-Damgarten",
+    "Ribnitz Damgarten"
   ],
   "Richtenberg": [
     "Richtenberg"
@@ -4497,7 +4875,10 @@
     "Rinteln"
   ],
   "R\u00f6bel/M\u00fcritz": [
-    "R\u00f6bel/M\u00fcritz"
+    "R\u00f6bel/M\u00fcritz",
+    "Roebel/Mueritz",
+    "R\u00f6bel M\u00fcritz",
+    "Roebel Mueritz"
   ],
   "Rochlitz": [
     "Rochlitz"
@@ -4512,10 +4893,12 @@
     "Rodenberg"
   ],
   "R\u00f6dental": [
-    "R\u00f6dental"
+    "R\u00f6dental",
+    "Roedental"
   ],
   "R\u00f6dermark": [
-    "R\u00f6dermark"
+    "R\u00f6dermark",
+    "Roedermark"
   ],
   "Rodewisch": [
     "Rodewisch"
@@ -4527,7 +4910,8 @@
     "Roding"
   ],
   "R\u00f6mhild": [
-    "R\u00f6mhild"
+    "R\u00f6mhild",
+    "Roemhild"
   ],
   "Romrod": [
     "Romrod"
@@ -4539,7 +4923,8 @@
     "Ronnenberg"
   ],
   "Rosbach vor der H\u00f6he": [
-    "Rosbach vor der H\u00f6he"
+    "Rosbach vor der H\u00f6he",
+    "Rosbach vor der Hoehe"
   ],
   "Rosenfeld": [
     "Rosenfeld"
@@ -4551,13 +4936,16 @@
     "Rosenthal"
   ],
   "R\u00f6srath": [
-    "R\u00f6srath"
+    "R\u00f6srath",
+    "Roesrath"
   ],
   "Ro\u00dfleben": [
-    "Ro\u00dfleben"
+    "Ro\u00dfleben",
+    "Rossleben"
   ],
   "Ro\u00dfwein": [
-    "Ro\u00dfwein"
+    "Ro\u00dfwein",
+    "Rosswein"
   ],
   "Rostock, Hansestadt": [
     "Rostock, Hansestadt"
@@ -4572,13 +4960,16 @@
     "Roth"
   ],
   "R\u00f6tha": [
-    "R\u00f6tha"
+    "R\u00f6tha",
+    "Roetha"
   ],
   "R\u00f6thenbach an der Pegnitz": [
-    "R\u00f6thenbach an der Pegnitz"
+    "R\u00f6thenbach an der Pegnitz",
+    "Roethenbach an der Pegnitz"
   ],
   "Rothenburg/O.L.": [
-    "Rothenburg/O.L."
+    "Rothenburg/O.L.",
+    "Rothenburg O.L."
   ],
   "Rothenburg ob der Tauber": [
     "Rothenburg ob der Tauber"
@@ -4593,16 +4984,19 @@
     "Rottenburg a.d.Laaber"
   ],
   "R\u00f6ttingen": [
-    "R\u00f6ttingen"
+    "R\u00f6ttingen",
+    "Roettingen"
   ],
   "Rottweil": [
     "Rottweil"
   ],
   "R\u00f6tz": [
-    "R\u00f6tz"
+    "R\u00f6tz",
+    "Roetz"
   ],
   "R\u00fcdesheim am Rhein": [
-    "R\u00fcdesheim am Rhein"
+    "R\u00fcdesheim am Rhein",
+    "Ruedesheim am Rhein"
   ],
   "Rudolstadt": [
     "Rudolstadt"
@@ -4617,22 +5011,27 @@
     "Runkel"
   ],
   "R\u00fcsselsheim am Main": [
-    "R\u00fcsselsheim am Main"
+    "R\u00fcsselsheim am Main",
+    "Ruesselsheim am Main"
   ],
   "Rutesheim": [
     "Rutesheim"
   ],
   "R\u00fcthen": [
-    "R\u00fcthen"
+    "R\u00fcthen",
+    "Ruethen"
   ],
   "Saalburg-Ebersdorf": [
-    "Saalburg-Ebersdorf"
+    "Saalburg-Ebersdorf",
+    "Saalburg Ebersdorf"
   ],
   "Saalfeld/Saale": [
-    "Saalfeld/Saale"
+    "Saalfeld/Saale",
+    "Saalfeld Saale"
   ],
   "Saarbr\u00fccken": [
-    "Saarbr\u00fccken"
+    "Saarbr\u00fccken",
+    "Saarbruecken"
   ],
   "Saarburg": [
     "Saarburg"
@@ -4659,7 +5058,8 @@
     "Sandau"
   ],
   "Sandersdorf-Brehna": [
-    "Sandersdorf-Brehna"
+    "Sandersdorf-Brehna",
+    "Sandersdorf Brehna"
   ],
   "Sangerhausen": [
     "Sangerhausen"
@@ -4707,28 +5107,33 @@
     "Schenefeld"
   ],
   "Sche\u00dflitz": [
-    "Sche\u00dflitz"
+    "Sche\u00dflitz",
+    "Schesslitz"
   ],
   "Schieder-Schwalenberg": [
-    "Schieder-Schwalenberg"
+    "Schieder-Schwalenberg",
+    "Schieder Schwalenberg"
   ],
   "Schifferstadt": [
     "Schifferstadt"
   ],
   "Schillingsf\u00fcrst": [
-    "Schillingsf\u00fcrst"
+    "Schillingsf\u00fcrst",
+    "Schillingsfuerst"
   ],
   "Schiltach": [
     "Schiltach"
   ],
   "Schirgiswalde-Kirschau": [
-    "Schirgiswalde-Kirschau"
+    "Schirgiswalde-Kirschau",
+    "Schirgiswalde Kirschau"
   ],
   "Schkeuditz": [
     "Schkeuditz"
   ],
   "Schk\u00f6len": [
-    "Schk\u00f6len"
+    "Schk\u00f6len",
+    "Schkoelen"
   ],
   "Schleiden": [
     "Schleiden"
@@ -4752,16 +5157,21 @@
     "Schlitz"
   ],
   "Schlo\u00df Holte-Stukenbrock": [
-    "Schlo\u00df Holte-Stukenbrock"
+    "Schlo\u00df Holte-Stukenbrock",
+    "Schloss Holte-Stukenbrock",
+    "Schlo\u00df Holte Stukenbrock",
+    "Schloss Holte Stukenbrock"
   ],
   "Schlotheim": [
     "Schlotheim"
   ],
   "Schl\u00fcchtern": [
-    "Schl\u00fcchtern"
+    "Schl\u00fcchtern",
+    "Schluechtern"
   ],
   "Schl\u00fcsselfeld": [
-    "Schl\u00fcsselfeld"
+    "Schl\u00fcsselfeld",
+    "Schluesselfeld"
   ],
   "Schmalkalden": [
     "Schmalkalden"
@@ -4770,7 +5180,8 @@
     "Schmallenberg"
   ],
   "Schm\u00f6lln": [
-    "Schm\u00f6lln"
+    "Schm\u00f6lln",
+    "Schmoelln"
   ],
   "Schnackenburg": [
     "Schnackenburg"
@@ -4785,43 +5196,56 @@
     "Schneverdingen"
   ],
   "Sch\u00f6mberg": [
-    "Sch\u00f6mberg"
+    "Sch\u00f6mberg",
+    "Schoemberg"
   ],
   "Sch\u00f6nau": [
-    "Sch\u00f6nau"
+    "Sch\u00f6nau",
+    "Schoenau"
   ],
   "Sch\u00f6nau im Schwarzwald": [
-    "Sch\u00f6nau im Schwarzwald"
+    "Sch\u00f6nau im Schwarzwald",
+    "Schoenau im Schwarzwald"
   ],
   "Sch\u00f6nberg": [
-    "Sch\u00f6nberg"
+    "Sch\u00f6nberg",
+    "Schoenberg"
   ],
   "Sch\u00f6nebeck": [
-    "Sch\u00f6nebeck"
+    "Sch\u00f6nebeck",
+    "Schoenebeck"
   ],
   "Sch\u00f6neck/Vogtl.": [
-    "Sch\u00f6neck/Vogtl."
+    "Sch\u00f6neck/Vogtl.",
+    "Schoeneck/Vogtl.",
+    "Sch\u00f6neck Vogtl.",
+    "Schoeneck Vogtl."
   ],
   "Sch\u00f6newalde": [
-    "Sch\u00f6newalde"
+    "Sch\u00f6newalde",
+    "Schoenewalde"
   ],
   "Schongau": [
     "Schongau"
   ],
   "Sch\u00f6ningen": [
-    "Sch\u00f6ningen"
+    "Sch\u00f6ningen",
+    "Schoeningen"
   ],
   "Sch\u00f6nsee": [
-    "Sch\u00f6nsee"
+    "Sch\u00f6nsee",
+    "Schoensee"
   ],
   "Sch\u00f6nwald": [
-    "Sch\u00f6nwald"
+    "Sch\u00f6nwald",
+    "Schoenwald"
   ],
   "Schopfheim": [
     "Schopfheim"
   ],
   "Sch\u00f6ppenstedt": [
-    "Sch\u00f6ppenstedt"
+    "Sch\u00f6ppenstedt",
+    "Schoeppenstedt"
   ],
   "Schorndorf": [
     "Schorndorf"
@@ -4848,7 +5272,8 @@
     "Schrozberg"
   ],
   "Sch\u00fcttorf": [
-    "Sch\u00fcttorf"
+    "Sch\u00fcttorf",
+    "Schuettorf"
   ],
   "Schwaan": [
     "Schwaan"
@@ -4857,13 +5282,16 @@
     "Schwabach"
   ],
   "Schw\u00e4bisch Gm\u00fcnd": [
-    "Schw\u00e4bisch Gm\u00fcnd"
+    "Schw\u00e4bisch Gm\u00fcnd",
+    "Schwaebisch Gmuend"
   ],
   "Schw\u00e4bisch Hall": [
-    "Schw\u00e4bisch Hall"
+    "Schw\u00e4bisch Hall",
+    "Schwaebisch Hall"
   ],
   "Schwabm\u00fcnchen": [
-    "Schwabm\u00fcnchen"
+    "Schwabm\u00fcnchen",
+    "Schwabmuenchen"
   ],
   "Schwaigern": [
     "Schwaigern"
@@ -4890,7 +5318,8 @@
     "Schwarzenbek"
   ],
   "Schwarzenberg/Erzgeb.": [
-    "Schwarzenberg/Erzgeb."
+    "Schwarzenberg/Erzgeb.",
+    "Schwarzenberg Erzgeb."
   ],
   "Schwarzenborn": [
     "Schwarzenborn"
@@ -4899,7 +5328,8 @@
     "Schwarzheide"
   ],
   "Schwedt/Oder": [
-    "Schwedt/Oder"
+    "Schwedt/Oder",
+    "Schwedt Oder"
   ],
   "Schweich": [
     "Schweich"
@@ -4971,7 +5401,8 @@
     "Senftenberg"
   ],
   "Se\u00dflach": [
-    "Se\u00dflach"
+    "Se\u00dflach",
+    "Sesslach"
   ],
   "Siegburg": [
     "Siegburg"
@@ -4986,7 +5417,10 @@
     "Simbach am Inn"
   ],
   "Simmern/Hunsr\u00fcck": [
-    "Simmern/Hunsr\u00fcck"
+    "Simmern/Hunsr\u00fcck",
+    "Simmern/Hunsrueck",
+    "Simmern Hunsr\u00fcck",
+    "Simmern Hunsrueck"
   ],
   "Sindelfingen": [
     "Sindelfingen"
@@ -5013,7 +5447,8 @@
     "Soltau"
   ],
   "S\u00f6mmerda": [
-    "S\u00f6mmerda"
+    "S\u00f6mmerda",
+    "Soemmerda"
   ],
   "Sondershausen": [
     "Sondershausen"
@@ -5055,7 +5490,8 @@
     "Springe"
   ],
   "Sprockh\u00f6vel": [
-    "Sprockh\u00f6vel"
+    "Sprockh\u00f6vel",
+    "Sprockhoevel"
   ],
   "Stade": [
     "Stade"
@@ -5097,7 +5533,8 @@
     "Starnberg"
   ],
   "Sta\u00dffurt": [
-    "Sta\u00dffurt"
+    "Sta\u00dffurt",
+    "Stassfurt"
   ],
   "Staufen im Breisgau": [
     "Staufen im Breisgau"
@@ -5118,10 +5555,12 @@
     "Steinach"
   ],
   "Steinau an der Stra\u00dfe": [
-    "Steinau an der Stra\u00dfe"
+    "Steinau an der Stra\u00dfe",
+    "Steinau an der Strasse"
   ],
   "Steinbach-Hallenberg": [
-    "Steinbach-Hallenberg"
+    "Steinbach-Hallenberg",
+    "Steinbach Hallenberg"
   ],
   "Steinbach": [
     "Steinbach"
@@ -5154,7 +5593,8 @@
     "Stolberg"
   ],
   "Stollberg/Erzgeb.": [
-    "Stollberg/Erzgeb."
+    "Stollberg/Erzgeb.",
+    "Stollberg Erzgeb."
   ],
   "Stolpen": [
     "Stolpen"
@@ -5163,7 +5603,8 @@
     "Storkow"
   ],
   "St\u00f6\u00dfen": [
-    "St\u00f6\u00dfen"
+    "St\u00f6\u00dfen",
+    "Stoessen"
   ],
   "Straelen": [
     "Straelen"
@@ -5187,7 +5628,8 @@
     "Stromberg"
   ],
   "St\u00fchlingen": [
-    "St\u00fchlingen"
+    "St\u00fchlingen",
+    "Stuehlingen"
   ],
   "Stutensee": [
     "Stutensee"
@@ -5208,10 +5650,12 @@
     "Sulz am Neckar"
   ],
   "Sulzbach/Saar": [
-    "Sulzbach/Saar"
+    "Sulzbach/Saar",
+    "Sulzbach Saar"
   ],
   "Sulzbach-Rosenberg": [
-    "Sulzbach-Rosenberg"
+    "Sulzbach-Rosenberg",
+    "Sulzbach Rosenberg"
   ],
   "Sulzburg": [
     "Sulzburg"
@@ -5220,22 +5664,27 @@
     "Sundern"
   ],
   "S\u00fcdliches Anhalt": [
-    "S\u00fcdliches Anhalt"
+    "S\u00fcdliches Anhalt",
+    "Suedliches Anhalt"
   ],
   "S\u00fc\u00dfen": [
-    "S\u00fc\u00dfen"
+    "S\u00fc\u00dfen",
+    "Suessen"
   ],
   "Syke": [
     "Syke"
   ],
   "Tambach-Dietharz": [
-    "Tambach-Dietharz"
+    "Tambach-Dietharz",
+    "Tambach Dietharz"
   ],
   "Tangerh\u00fctte": [
-    "Tangerh\u00fctte"
+    "Tangerh\u00fctte",
+    "Tangerhuette"
   ],
   "Tangerm\u00fcnde": [
-    "Tangerm\u00fcnde"
+    "Tangerm\u00fcnde",
+    "Tangermuende"
   ],
   "Tann": [
     "Tann"
@@ -5295,7 +5744,8 @@
     "Thale"
   ],
   "Thalheim/Erzgeb.": [
-    "Thalheim/Erzgeb."
+    "Thalheim/Erzgeb.",
+    "Thalheim Erzgeb."
   ],
   "Thannhausen": [
     "Thannhausen"
@@ -5313,7 +5763,8 @@
     "Tirschenreuth"
   ],
   "Titisee-Neustadt": [
-    "Titisee-Neustadt"
+    "Titisee-Neustadt",
+    "Titisee Neustadt"
   ],
   "Tittmoning": [
     "Tittmoning"
@@ -5322,13 +5773,16 @@
     "Todtnau"
   ],
   "T\u00f6ging am Inn": [
-    "T\u00f6ging am Inn"
+    "T\u00f6ging am Inn",
+    "Toeging am Inn"
   ],
   "T\u00f6nisvorst": [
-    "T\u00f6nisvorst"
+    "T\u00f6nisvorst",
+    "Toenisvorst"
   ],
   "T\u00f6nning": [
-    "T\u00f6nning"
+    "T\u00f6nning",
+    "Toenning"
   ],
   "Torgau": [
     "Torgau"
@@ -5340,7 +5794,8 @@
     "Tornesch"
   ],
   "Traben-Trarbach": [
-    "Traben-Trarbach"
+    "Traben-Trarbach",
+    "Traben Trarbach"
   ],
   "Traunreut": [
     "Traunreut"
@@ -5352,7 +5807,8 @@
     "Trebbin"
   ],
   "Trebsen/Mulde": [
-    "Trebsen/Mulde"
+    "Trebsen/Mulde",
+    "Trebsen Mulde"
   ],
   "Treffurt": [
     "Treffurt"
@@ -5394,7 +5850,8 @@
     "Trostberg"
   ],
   "T\u00fcbingen": [
-    "T\u00fcbingen"
+    "T\u00fcbingen",
+    "Tuebingen"
   ],
   "Tuttlingen": [
     "Tuttlingen"
@@ -5403,16 +5860,21 @@
     "Twistringen"
   ],
   "\u00dcbach-Palenberg": [
-    "\u00dcbach-Palenberg"
+    "\u00dcbach-Palenberg",
+    "\u00dcbach Palenberg"
   ],
   "\u00dcberlingen": [
     "\u00dcberlingen"
   ],
   "Uebigau-Wahrenbr\u00fcck": [
-    "Uebigau-Wahrenbr\u00fcck"
+    "Uebigau-Wahrenbr\u00fcck",
+    "Uebigau-Wahrenbrueck",
+    "Uebigau Wahrenbr\u00fcck",
+    "Uebigau Wahrenbrueck"
   ],
   "Ueckerm\u00fcnde": [
-    "Ueckerm\u00fcnde"
+    "Ueckerm\u00fcnde",
+    "Ueckermuende"
   ],
   "Uelzen": [
     "Uelzen"
@@ -5445,7 +5907,8 @@
     "Unna"
   ],
   "Unterschlei\u00dfheim": [
-    "Unterschlei\u00dfheim"
+    "Unterschlei\u00dfheim",
+    "Unterschleissheim"
   ],
   "Usedom": [
     "Usedom"
@@ -5505,7 +5968,8 @@
     "Versmold"
   ],
   "Vetschau/Spreewald": [
-    "Vetschau/Spreewald"
+    "Vetschau/Spreewald",
+    "Vetschau Spreewald"
   ],
   "Viechtach": [
     "Viechtach"
@@ -5517,7 +5981,8 @@
     "Viersen"
   ],
   "Villingen-Schwenningen": [
-    "Villingen-Schwenningen"
+    "Villingen-Schwenningen",
+    "Villingen Schwenningen"
   ],
   "Vilsbiburg": [
     "Vilsbiburg"
@@ -5529,7 +5994,8 @@
     "Vilshofen an der Donau"
   ],
   "Visselh\u00f6vede": [
-    "Visselh\u00f6vede"
+    "Visselh\u00f6vede",
+    "Visselhoevede"
   ],
   "Vlotho": [
     "Vlotho"
@@ -5544,19 +6010,23 @@
     "Vohburg an der Donau"
   ],
   "Vohenstrau\u00df": [
-    "Vohenstrau\u00df"
+    "Vohenstrau\u00df",
+    "Vohenstrauss"
   ],
   "V\u00f6hrenbach": [
-    "V\u00f6hrenbach"
+    "V\u00f6hrenbach",
+    "Voehrenbach"
   ],
   "V\u00f6hringen": [
-    "V\u00f6hringen"
+    "V\u00f6hringen",
+    "Voehringen"
   ],
   "Volkach": [
     "Volkach"
   ],
   "V\u00f6lklingen": [
-    "V\u00f6lklingen"
+    "V\u00f6lklingen",
+    "Voelklingen"
   ],
   "Volkmarsen": [
     "Volkmarsen"
@@ -5565,16 +6035,19 @@
     "Vreden"
   ],
   "Wachenheim an der Weinstra\u00dfe": [
-    "Wachenheim an der Weinstra\u00dfe"
+    "Wachenheim an der Weinstra\u00dfe",
+    "Wachenheim an der Weinstrasse"
   ],
   "W\u00e4chtersbach": [
-    "W\u00e4chtersbach"
+    "W\u00e4chtersbach",
+    "Waechtersbach"
   ],
   "Wadern": [
     "Wadern"
   ],
   "Wagh\u00e4usel": [
-    "Wagh\u00e4usel"
+    "Wagh\u00e4usel",
+    "Waghaeusel"
   ],
   "Wahlstedt": [
     "Wahlstedt"
@@ -5589,7 +6062,8 @@
     "Waischenfeld"
   ],
   "Waldbr\u00f6l": [
-    "Waldbr\u00f6l"
+    "Waldbr\u00f6l",
+    "Waldbroel"
   ],
   "Waldeck": [
     "Waldeck"
@@ -5619,19 +6093,22 @@
     "Waldkraiburg"
   ],
   "Waldm\u00fcnchen": [
-    "Waldm\u00fcnchen"
+    "Waldm\u00fcnchen",
+    "Waldmuenchen"
   ],
   "Waldsassen": [
     "Waldsassen"
   ],
   "Waldshut-Tiengen": [
-    "Waldshut-Tiengen"
+    "Waldshut-Tiengen",
+    "Waldshut Tiengen"
   ],
   "Walldorf": [
     "Walldorf"
   ],
   "Walld\u00fcrn": [
-    "Walld\u00fcrn"
+    "Walld\u00fcrn",
+    "Wallduern"
   ],
   "Wallenfels": [
     "Wallenfels"
@@ -5649,10 +6126,14 @@
     "Wanfried"
   ],
   "Wangen im Allg\u00e4u": [
-    "Wangen im Allg\u00e4u"
+    "Wangen im Allg\u00e4u",
+    "Wangen im Allgaeu"
   ],
   "Wanzleben-B\u00f6rde": [
-    "Wanzleben-B\u00f6rde"
+    "Wanzleben-B\u00f6rde",
+    "Wanzleben-Boerde",
+    "Wanzleben B\u00f6rde",
+    "Wanzleben Boerde"
   ],
   "Warburg": [
     "Warburg"
@@ -5676,7 +6157,8 @@
     "Wasserburg am Inn"
   ],
   "Wassertr\u00fcdingen": [
-    "Wassertr\u00fcdingen"
+    "Wassertr\u00fcdingen",
+    "Wassertruedingen"
   ],
   "Wasungen": [
     "Wasungen"
@@ -5739,28 +6221,38 @@
     "Weismain"
   ],
   "Wei\u00dfenberg": [
-    "Wei\u00dfenberg"
+    "Wei\u00dfenberg",
+    "Weissenberg"
   ],
   "Wei\u00dfenburg in Bayern": [
-    "Wei\u00dfenburg in Bayern"
+    "Wei\u00dfenburg in Bayern",
+    "Weissenburg in Bayern"
   ],
   "Wei\u00dfenfels": [
-    "Wei\u00dfenfels"
+    "Wei\u00dfenfels",
+    "Weissenfels"
   ],
   "Wei\u00dfenhorn": [
-    "Wei\u00dfenhorn"
+    "Wei\u00dfenhorn",
+    "Weissenhorn"
   ],
   "Wei\u00dfensee": [
-    "Wei\u00dfensee"
+    "Wei\u00dfensee",
+    "Weissensee"
   ],
   "Wei\u00dfenstadt": [
-    "Wei\u00dfenstadt"
+    "Wei\u00dfenstadt",
+    "Weissenstadt"
   ],
   "Wei\u00dfenthurm": [
-    "Wei\u00dfenthurm"
+    "Wei\u00dfenthurm",
+    "Weissenthurm"
   ],
   "Wei\u00dfwasser/O.L.": [
-    "Wei\u00dfwasser/O.L."
+    "Wei\u00dfwasser/O.L.",
+    "Weisswasser/O.L.",
+    "Wei\u00dfwasser O.L.",
+    "Weisswasser O.L."
   ],
   "Weiterstadt": [
     "Weiterstadt"
@@ -5841,7 +6333,10 @@
     "Wetter"
   ],
   "Wettin-L\u00f6bej\u00fcn": [
-    "Wettin-L\u00f6bej\u00fcn"
+    "Wettin-L\u00f6bej\u00fcn",
+    "Wettin-Loebejuen",
+    "Wettin L\u00f6bej\u00fcn",
+    "Wettin Loebejuen"
   ],
   "Wetzlar": [
     "Wetzlar"
@@ -5883,7 +6378,10 @@
     "Wilhelmshaven"
   ],
   "Wilkau-Ha\u00dflau": [
-    "Wilkau-Ha\u00dflau"
+    "Wilkau-Ha\u00dflau",
+    "Wilkau-Hasslau",
+    "Wilkau Ha\u00dflau",
+    "Wilkau Hasslau"
   ],
   "Willebadessen": [
     "Willebadessen"
@@ -5916,7 +6414,8 @@
     "Winterberg"
   ],
   "Wipperf\u00fcrth": [
-    "Wipperf\u00fcrth"
+    "Wipperf\u00fcrth",
+    "Wipperfuerth"
   ],
   "Wirges": [
     "Wirges"
@@ -5952,7 +6451,8 @@
     "Wittmund"
   ],
   "Wittstock/Dosse": [
-    "Wittstock/Dosse"
+    "Wittstock/Dosse",
+    "Wittstock Dosse"
   ],
   "Witzenhausen": [
     "Witzenhausen"
@@ -5964,13 +6464,15 @@
     "Wolfach"
   ],
   "Wolfenb\u00fcttel": [
-    "Wolfenb\u00fcttel"
+    "Wolfenb\u00fcttel",
+    "Wolfenbuettel"
   ],
   "Wolfhagen": [
     "Wolfhagen"
   ],
   "Wolframs-Eschenbach": [
-    "Wolframs-Eschenbach"
+    "Wolframs-Eschenbach",
+    "Wolframs Eschenbach"
   ],
   "Wolfratshausen": [
     "Wolfratshausen"
@@ -5994,22 +6496,27 @@
     "Worms"
   ],
   "W\u00f6rrstadt": [
-    "W\u00f6rrstadt"
+    "W\u00f6rrstadt",
+    "Woerrstadt"
   ],
   "W\u00f6rth am Rhein": [
-    "W\u00f6rth am Rhein"
+    "W\u00f6rth am Rhein",
+    "Woerth am Rhein"
   ],
   "W\u00f6rth an der Donau": [
-    "W\u00f6rth an der Donau"
+    "W\u00f6rth an der Donau",
+    "Woerth an der Donau"
   ],
   "W\u00f6rth am Main": [
-    "W\u00f6rth am Main"
+    "W\u00f6rth am Main",
+    "Woerth am Main"
   ],
   "Wriezen": [
     "Wriezen"
   ],
   "W\u00fclfrath": [
-    "W\u00fclfrath"
+    "W\u00fclfrath",
+    "Wuelfrath"
   ],
   "Wunsiedel": [
     "Wunsiedel"
@@ -6021,13 +6528,15 @@
     "Wuppertal"
   ],
   "W\u00fcrselen": [
-    "W\u00fcrselen"
+    "W\u00fcrselen",
+    "Wuerselen"
   ],
   "Wurzbach": [
     "Wurzbach"
   ],
   "W\u00fcrzburg": [
-    "W\u00fcrzburg"
+    "W\u00fcrzburg",
+    "Wuerzburg"
   ],
   "Wurzen": [
     "Wurzen"
@@ -6036,13 +6545,15 @@
     "Wustrow"
   ],
   "Wyk auf F\u00f6hr": [
-    "Wyk auf F\u00f6hr"
+    "Wyk auf F\u00f6hr",
+    "Wyk auf Foehr"
   ],
   "Xanten": [
     "Xanten"
   ],
   "Zahna-Elster": [
-    "Zahna-Elster"
+    "Zahna-Elster",
+    "Zahna Elster"
   ],
   "Zarrentin am Schaalsee": [
     "Zarrentin am Schaalsee"
@@ -6066,19 +6577,23 @@
     "Zell"
   ],
   "Zella-Mehlis": [
-    "Zella-Mehlis"
+    "Zella-Mehlis",
+    "Zella Mehlis"
   ],
   "Zerbst/Anhalt": [
-    "Zerbst/Anhalt"
+    "Zerbst/Anhalt",
+    "Zerbst Anhalt"
   ],
   "Zeulenroda-Triebes": [
-    "Zeulenroda-Triebes"
+    "Zeulenroda-Triebes",
+    "Zeulenroda Triebes"
   ],
   "Zeven": [
     "Zeven"
   ],
   "Ziegenr\u00fcck": [
-    "Ziegenr\u00fcck"
+    "Ziegenr\u00fcck",
+    "Ziegenrueck"
   ],
   "Zierenberg": [
     "Zierenberg"
@@ -6093,7 +6608,8 @@
     "Zittau"
   ],
   "Z\u00f6rbig": [
-    "Z\u00f6rbig"
+    "Z\u00f6rbig",
+    "Zoerbig"
   ],
   "Zossen": [
     "Zossen"
@@ -6102,10 +6618,12 @@
     "Zschopau"
   ],
   "Z\u00fclpich": [
-    "Z\u00fclpich"
+    "Z\u00fclpich",
+    "Zuelpich"
   ],
   "Zweibr\u00fccken": [
-    "Zweibr\u00fccken"
+    "Zweibr\u00fccken",
+    "Zweibruecken"
   ],
   "Zwenkau": [
     "Zwenkau"
@@ -6120,6 +6638,7 @@
     "Zwingenberg"
   ],
   "Zw\u00f6nitz": [
-    "Zw\u00f6nitz"
+    "Zw\u00f6nitz",
+    "Zwoenitz"
   ]
 }
